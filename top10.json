@@ -1,2 +1,9 @@
-cat > top10.json <<'EOF'
-{"ok":true,"generatedAtUtc":"","sevenDays":[],"allTime":[]}
+{
+  "generatedAtUtc": "2026-01-03T21:00:00Z",
+  "sevenDays": [
+    { "userId": "123", "displayName": "Bekir", "avatarUrl": "https://...", "score": 12.34, "messages": 10, "voiceSeconds": 120 }
+  ],
+  "allTime": [
+    { "userId": "123", "displayName": "Bekir", "avatarUrl": "https://...", "score": 1234.56, "messages": 999, "voiceSeconds": 99999 }
+  ]
+}
