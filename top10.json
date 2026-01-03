@@ -1,9 +1,9 @@
 {
   "generatedAtUtc": "2026-01-03T21:00:00Z",
   "sevenDays": [
-    { "userId": "123", "displayName": "Bekir", "avatarUrl": "https://...", "score": 12.34, "messages": 10, "voiceSeconds": 120 }
+    { "userId": "123", "displayName": "Bekir", "avatarUrl": "https://cdn.discordapp.com/avatars/361503154837258240/d828c8e0f42e8a0656e866ed1ddc1ecf.webp?size=240", "score": 12.34, "messages": 10, "voiceSeconds": 120 }
   ],
   "allTime": [
-    { "userId": "123", "displayName": "Bekir", "avatarUrl": "https://...", "score": 1234.56, "messages": 999, "voiceSeconds": 99999 }
+    { "userId": "123", "displayName": "Bekir", "avatarUrl": "https://cdn.discordapp.com/avatars/361503154837258240/d828c8e0f42e8a0656e866ed1ddc1ecf.webp?size=240", "score": 1234.56, "messages": 999, "voiceSeconds": 99999 }
   ]
 }
