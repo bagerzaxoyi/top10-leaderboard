@@ -1,13 +1,13 @@
 {
-  "generatedAtUtc": "2026-01-04T13:31:22.000Z",
+  "generatedAtUtc": "2026-01-04T13:32:22.000Z",
   "sevenDays": [
     {
       "userId": "634818840542445580",
       "displayName": "Chill",
       "avatarUrl": "https://cdn.discordapp.com/avatars/634818840542445580/c4602b4b2c327228e903ab6f99e059ed.png?size=128",
-      "score": 867,
+      "score": 868,
       "messages": 0,
-      "voiceSeconds": 52020
+      "voiceSeconds": 52080
     },
     {
       "userId": "1217876350703239288",
@@ -45,17 +45,17 @@
       "userId": "718951317124546641",
       "displayName": "Po$$",
       "avatarUrl": "https://cdn.discordapp.com/avatars/718951317124546641/e9823863db64476e9e7d3118493da772.png?size=128",
-      "score": 326.45,
+      "score": 327.45,
       "messages": 8,
-      "voiceSeconds": 19539
+      "voiceSeconds": 19599
     },
     {
       "userId": "793416870703267840",
       "displayName": "Gulê",
       "avatarUrl": "https://cdn.discordapp.com/avatars/793416870703267840/15032e82c21576ed7b49ebb8b824340a.png?size=128",
-      "score": 270.9,
+      "score": 271.9,
       "messages": 27,
-      "voiceSeconds": 16092
+      "voiceSeconds": 16152
     },
     {
       "userId": "1432055525482299533",
@@ -87,9 +87,9 @@
       "userId": "634818840542445580",
       "displayName": "Chill",
       "avatarUrl": "https://cdn.discordapp.com/avatars/634818840542445580/c4602b4b2c327228e903ab6f99e059ed.png?size=128",
-      "score": 867,
+      "score": 868,
       "messages": 0,
-      "voiceSeconds": 52020
+      "voiceSeconds": 52080
     },
     {
       "userId": "1217876350703239288",
@@ -127,17 +127,17 @@
       "userId": "718951317124546641",
       "displayName": "Po$$",
       "avatarUrl": "https://cdn.discordapp.com/avatars/718951317124546641/e9823863db64476e9e7d3118493da772.png?size=128",
-      "score": 326.45,
+      "score": 327.45,
       "messages": 8,
-      "voiceSeconds": 19539
+      "voiceSeconds": 19599
     },
     {
       "userId": "793416870703267840",
       "displayName": "Gulê",
       "avatarUrl": "https://cdn.discordapp.com/avatars/793416870703267840/15032e82c21576ed7b49ebb8b824340a.png?size=128",
-      "score": 270.9,
+      "score": 271.9,
       "messages": 27,
-      "voiceSeconds": 16092
+      "voiceSeconds": 16152
     },
     {
       "userId": "1432055525482299533",
