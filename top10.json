@@ -1,13 +1,13 @@
 {
-  "generatedAtUtc": "2026-01-04T05:26:14.000Z",
+  "generatedAtUtc": "2026-01-04T05:27:14.000Z",
   "sevenDays": [
     {
       "userId": "634818840542445580",
       "displayName": "Chill",
       "avatarUrl": "https://cdn.discordapp.com/avatars/634818840542445580/c4602b4b2c327228e903ab6f99e059ed.png?size=128",
-      "score": 382,
+      "score": 383,
       "messages": 0,
-      "voiceSeconds": 22920
+      "voiceSeconds": 22980
     },
     {
       "userId": "1217876350703239288",
@@ -21,9 +21,9 @@
       "userId": "1151982656020557914",
       "displayName": "Mr. Olympia",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1151982656020557914/1b0a7e04ecda4c2876cd472a9476245d.png?size=128",
-      "score": 363.6,
+      "score": 364.6,
       "messages": 0,
-      "voiceSeconds": 21816
+      "voiceSeconds": 21876
     },
     {
       "userId": "1423118137448071229",
@@ -77,9 +77,9 @@
       "userId": "718951317124546641",
       "displayName": "Po$$",
       "avatarUrl": "https://cdn.discordapp.com/avatars/718951317124546641/e9823863db64476e9e7d3118493da772.png?size=128",
-      "score": 214.83333333333334,
+      "score": 215.83333333333334,
       "messages": 3,
-      "voiceSeconds": 12872
+      "voiceSeconds": 12932
     }
   ],
   "allTime": [
@@ -87,9 +87,9 @@
       "userId": "634818840542445580",
       "displayName": "Chill",
       "avatarUrl": "https://cdn.discordapp.com/avatars/634818840542445580/c4602b4b2c327228e903ab6f99e059ed.png?size=128",
-      "score": 382,
+      "score": 383,
       "messages": 0,
-      "voiceSeconds": 22920
+      "voiceSeconds": 22980
     },
     {
       "userId": "1217876350703239288",
@@ -103,9 +103,9 @@
       "userId": "1151982656020557914",
       "displayName": "Mr. Olympia",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1151982656020557914/1b0a7e04ecda4c2876cd472a9476245d.png?size=128",
-      "score": 363.6,
+      "score": 364.6,
       "messages": 0,
-      "voiceSeconds": 21816
+      "voiceSeconds": 21876
     },
     {
       "userId": "1423118137448071229",
@@ -159,9 +159,9 @@
       "userId": "718951317124546641",
       "displayName": "Po$$",
       "avatarUrl": "https://cdn.discordapp.com/avatars/718951317124546641/e9823863db64476e9e7d3118493da772.png?size=128",
-      "score": 214.83333333333334,
+      "score": 215.83333333333334,
       "messages": 3,
-      "voiceSeconds": 12872
+      "voiceSeconds": 12932
     }
   ]
 }
