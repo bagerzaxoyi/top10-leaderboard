@@ -1,5 +1,5 @@
 {
-  "generatedAtUtc": "2026-01-04T17:46:25.000Z",
+  "generatedAtUtc": "2026-01-04T17:47:25.000Z",
   "sevenDays": [
     {
       "userId": "1217876350703239288",
@@ -45,9 +45,9 @@
       "userId": "361503154837258240",
       "displayName": "BageR Zaxoyî",
       "avatarUrl": "https://cdn.discordapp.com/avatars/361503154837258240/d828c8e0f42e8a0656e866ed1ddc1ecf.png?size=128",
-      "score": 383.68333333333334,
+      "score": 384.68333333333334,
       "messages": 10,
-      "voiceSeconds": 22961
+      "voiceSeconds": 23021
     },
     {
       "userId": "1265999579690565732",
@@ -69,17 +69,17 @@
       "userId": "675684250573602837",
       "displayName": "𝘉𝘦𝘬𝘪𝘳",
       "avatarUrl": "https://cdn.discordapp.com/avatars/675684250573602837/a0954e43ee572d0c047414d4728d1d1f.png?size=128",
-      "score": 298.9,
+      "score": 299.9,
       "messages": 9,
-      "voiceSeconds": 17880
+      "voiceSeconds": 17940
     },
     {
       "userId": "1139657131323306004",
       "displayName": "h.a.k Rzgar",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1139657131323306004/a6cc5f0f65fe16ca52286f4f9ababbbb.png?size=128",
-      "score": 286.95,
+      "score": 287.95,
       "messages": 0,
-      "voiceSeconds": 17217
+      "voiceSeconds": 17277
     }
   ],
   "allTime": [
@@ -127,9 +127,9 @@
       "userId": "361503154837258240",
       "displayName": "BageR Zaxoyî",
       "avatarUrl": "https://cdn.discordapp.com/avatars/361503154837258240/d828c8e0f42e8a0656e866ed1ddc1ecf.png?size=128",
-      "score": 383.68333333333334,
+      "score": 384.68333333333334,
       "messages": 10,
-      "voiceSeconds": 22961
+      "voiceSeconds": 23021
     },
     {
       "userId": "1265999579690565732",
@@ -151,17 +151,17 @@
       "userId": "675684250573602837",
       "displayName": "𝘉𝘦𝘬𝘪𝘳",
       "avatarUrl": "https://cdn.discordapp.com/avatars/675684250573602837/a0954e43ee572d0c047414d4728d1d1f.png?size=128",
-      "score": 298.9,
+      "score": 299.9,
       "messages": 9,
-      "voiceSeconds": 17880
+      "voiceSeconds": 17940
     },
     {
       "userId": "1139657131323306004",
       "displayName": "h.a.k Rzgar",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1139657131323306004/a6cc5f0f65fe16ca52286f4f9ababbbb.png?size=128",
-      "score": 286.95,
+      "score": 287.95,
       "messages": 0,
-      "voiceSeconds": 17217
+      "voiceSeconds": 17277
     }
   ]
 }
