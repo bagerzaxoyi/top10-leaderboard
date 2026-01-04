@@ -1,5 +1,5 @@
 {
-  "generatedAtUtc": "2026-01-04T19:08:26.000Z",
+  "generatedAtUtc": "2026-01-04T19:09:26.000Z",
   "sevenDays": [
     {
       "userId": "1217876350703239288",
@@ -13,17 +13,17 @@
       "userId": "793416870703267840",
       "displayName": "Gulê",
       "avatarUrl": "https://cdn.discordapp.com/avatars/793416870703267840/15032e82c21576ed7b49ebb8b824340a.png?size=128",
-      "score": 471.6333333333333,
+      "score": 472.6333333333333,
       "messages": 35,
-      "voiceSeconds": 28088
+      "voiceSeconds": 28148
     },
     {
       "userId": "361503154837258240",
       "displayName": "BageR Zaxoyî",
       "avatarUrl": "https://cdn.discordapp.com/avatars/361503154837258240/d828c8e0f42e8a0656e866ed1ddc1ecf.png?size=128",
-      "score": 465.68333333333334,
+      "score": 466.68333333333334,
       "messages": 10,
-      "voiceSeconds": 27881
+      "voiceSeconds": 27941
     },
     {
       "userId": "718951317124546641",
@@ -37,9 +37,9 @@
       "userId": "462717523549224972",
       "displayName": "Zagros",
       "avatarUrl": "https://cdn.discordapp.com/avatars/462717523549224972/fcef59f9e81ba474384a9ccd5135be44.png?size=128",
-      "score": 437.05,
+      "score": 438.05,
       "messages": 33,
-      "voiceSeconds": 26025
+      "voiceSeconds": 26085
     },
     {
       "userId": "1151982656020557914",
@@ -53,17 +53,17 @@
       "userId": "675684250573602837",
       "displayName": "𝘉𝘦𝘬𝘪𝘳",
       "avatarUrl": "https://cdn.discordapp.com/avatars/675684250573602837/a0954e43ee572d0c047414d4728d1d1f.png?size=128",
-      "score": 380.9,
+      "score": 381.9,
       "messages": 9,
-      "voiceSeconds": 22800
+      "voiceSeconds": 22860
     },
     {
       "userId": "1139657131323306004",
       "displayName": "h.a.k Rzgar",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1139657131323306004/a6cc5f0f65fe16ca52286f4f9ababbbb.png?size=128",
-      "score": 368.95,
+      "score": 369.95,
       "messages": 0,
-      "voiceSeconds": 22137
+      "voiceSeconds": 22197
     },
     {
       "userId": "1265999579690565732",
@@ -77,9 +77,9 @@
       "userId": "1375397762388066326",
       "displayName": "ahmet",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1375397762388066326/f2c5da77cc47d6f1501d38a97e38124b.png?size=128",
-      "score": 357.98333333333335,
+      "score": 358.98333333333335,
       "messages": 0,
-      "voiceSeconds": 21479
+      "voiceSeconds": 21539
     }
   ],
   "allTime": [
@@ -95,17 +95,17 @@
       "userId": "793416870703267840",
       "displayName": "Gulê",
       "avatarUrl": "https://cdn.discordapp.com/avatars/793416870703267840/15032e82c21576ed7b49ebb8b824340a.png?size=128",
-      "score": 471.6333333333333,
+      "score": 472.6333333333333,
       "messages": 35,
-      "voiceSeconds": 28088
+      "voiceSeconds": 28148
     },
     {
       "userId": "361503154837258240",
       "displayName": "BageR Zaxoyî",
       "avatarUrl": "https://cdn.discordapp.com/avatars/361503154837258240/d828c8e0f42e8a0656e866ed1ddc1ecf.png?size=128",
-      "score": 465.68333333333334,
+      "score": 466.68333333333334,
       "messages": 10,
-      "voiceSeconds": 27881
+      "voiceSeconds": 27941
     },
     {
       "userId": "718951317124546641",
@@ -119,9 +119,9 @@
       "userId": "462717523549224972",
       "displayName": "Zagros",
       "avatarUrl": "https://cdn.discordapp.com/avatars/462717523549224972/fcef59f9e81ba474384a9ccd5135be44.png?size=128",
-      "score": 437.05,
+      "score": 438.05,
       "messages": 33,
-      "voiceSeconds": 26025
+      "voiceSeconds": 26085
     },
     {
       "userId": "1151982656020557914",
@@ -135,17 +135,17 @@
       "userId": "675684250573602837",
       "displayName": "𝘉𝘦𝘬𝘪𝘳",
       "avatarUrl": "https://cdn.discordapp.com/avatars/675684250573602837/a0954e43ee572d0c047414d4728d1d1f.png?size=128",
-      "score": 380.9,
+      "score": 381.9,
       "messages": 9,
-      "voiceSeconds": 22800
+      "voiceSeconds": 22860
     },
     {
       "userId": "1139657131323306004",
       "displayName": "h.a.k Rzgar",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1139657131323306004/a6cc5f0f65fe16ca52286f4f9ababbbb.png?size=128",
-      "score": 368.95,
+      "score": 369.95,
       "messages": 0,
-      "voiceSeconds": 22137
+      "voiceSeconds": 22197
     },
     {
       "userId": "1265999579690565732",
@@ -159,9 +159,9 @@
       "userId": "1375397762388066326",
       "displayName": "ahmet",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1375397762388066326/f2c5da77cc47d6f1501d38a97e38124b.png?size=128",
-      "score": 357.98333333333335,
+      "score": 358.98333333333335,
       "messages": 0,
-      "voiceSeconds": 21479
+      "voiceSeconds": 21539
     }
   ]
 }
