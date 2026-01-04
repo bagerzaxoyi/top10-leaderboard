@@ -1,21 +1,21 @@
 {
-  "generatedAtUtc": "2026-01-04T12:12:21.000Z",
+  "generatedAtUtc": "2026-01-04T12:13:21.000Z",
   "sevenDays": [
     {
       "userId": "634818840542445580",
       "displayName": "Chill",
       "avatarUrl": "https://cdn.discordapp.com/avatars/634818840542445580/c4602b4b2c327228e903ab6f99e059ed.png?size=128",
-      "score": 788,
+      "score": 789,
       "messages": 0,
-      "voiceSeconds": 47280
+      "voiceSeconds": 47340
     },
     {
       "userId": "1217876350703239288",
       "displayName": "Panayotis Kurdopoulos",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1217876350703239288/a873e7e86bc5ee4ae23324f03e6d2742.png?size=128",
-      "score": 528.5,
+      "score": 529.5,
       "messages": 22,
-      "voiceSeconds": 31578
+      "voiceSeconds": 31638
     },
     {
       "userId": "1151982656020557914",
@@ -77,9 +77,9 @@
       "userId": "675684250573602837",
       "displayName": "𝘉𝘦𝘬𝘪𝘳",
       "avatarUrl": "https://cdn.discordapp.com/avatars/675684250573602837/a0954e43ee572d0c047414d4728d1d1f.png?size=128",
-      "score": 219.33333333333334,
+      "score": 220.33333333333334,
       "messages": 9,
-      "voiceSeconds": 13106
+      "voiceSeconds": 13166
     }
   ],
   "allTime": [
@@ -87,17 +87,17 @@
       "userId": "634818840542445580",
       "displayName": "Chill",
       "avatarUrl": "https://cdn.discordapp.com/avatars/634818840542445580/c4602b4b2c327228e903ab6f99e059ed.png?size=128",
-      "score": 788,
+      "score": 789,
       "messages": 0,
-      "voiceSeconds": 47280
+      "voiceSeconds": 47340
     },
     {
       "userId": "1217876350703239288",
       "displayName": "Panayotis Kurdopoulos",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1217876350703239288/a873e7e86bc5ee4ae23324f03e6d2742.png?size=128",
-      "score": 528.5,
+      "score": 529.5,
       "messages": 22,
-      "voiceSeconds": 31578
+      "voiceSeconds": 31638
     },
     {
       "userId": "1151982656020557914",
@@ -159,9 +159,9 @@
       "userId": "675684250573602837",
       "displayName": "𝘉𝘦𝘬𝘪𝘳",
       "avatarUrl": "https://cdn.discordapp.com/avatars/675684250573602837/a0954e43ee572d0c047414d4728d1d1f.png?size=128",
-      "score": 219.33333333333334,
+      "score": 220.33333333333334,
       "messages": 9,
-      "voiceSeconds": 13106
+      "voiceSeconds": 13166
     }
   ]
 }
