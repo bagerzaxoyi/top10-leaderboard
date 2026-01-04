@@ -1,5 +1,5 @@
 {
-  "generatedAtUtc": "2026-01-04T05:06:14.000Z",
+  "generatedAtUtc": "2026-01-04T05:07:14.000Z",
   "sevenDays": [
     {
       "userId": "1217876350703239288",
@@ -13,9 +13,9 @@
       "userId": "634818840542445580",
       "displayName": "Chill",
       "avatarUrl": "https://cdn.discordapp.com/avatars/634818840542445580/c4602b4b2c327228e903ab6f99e059ed.png?size=128",
-      "score": 362,
+      "score": 363,
       "messages": 0,
-      "voiceSeconds": 21720
+      "voiceSeconds": 21780
     },
     {
       "userId": "1423118137448071229",
@@ -29,9 +29,9 @@
       "userId": "1151982656020557914",
       "displayName": "Mr. Olympia",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1151982656020557914/1b0a7e04ecda4c2876cd472a9476245d.png?size=128",
-      "score": 343.6,
+      "score": 344.6,
       "messages": 0,
-      "voiceSeconds": 20616
+      "voiceSeconds": 20676
     },
     {
       "userId": "1265999579690565732",
@@ -95,9 +95,9 @@
       "userId": "634818840542445580",
       "displayName": "Chill",
       "avatarUrl": "https://cdn.discordapp.com/avatars/634818840542445580/c4602b4b2c327228e903ab6f99e059ed.png?size=128",
-      "score": 362,
+      "score": 363,
       "messages": 0,
-      "voiceSeconds": 21720
+      "voiceSeconds": 21780
     },
     {
       "userId": "1423118137448071229",
@@ -111,9 +111,9 @@
       "userId": "1151982656020557914",
       "displayName": "Mr. Olympia",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1151982656020557914/1b0a7e04ecda4c2876cd472a9476245d.png?size=128",
-      "score": 343.6,
+      "score": 344.6,
       "messages": 0,
-      "voiceSeconds": 20616
+      "voiceSeconds": 20676
     },
     {
       "userId": "1265999579690565732",
