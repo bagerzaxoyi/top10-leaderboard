@@ -1,5 +1,5 @@
 {
-  "generatedAtUtc": "2026-01-04T16:44:24.000Z",
+  "generatedAtUtc": "2026-01-04T16:45:24.000Z",
   "sevenDays": [
     {
       "userId": "1217876350703239288",
@@ -61,9 +61,9 @@
       "userId": "361503154837258240",
       "displayName": "BageR Zaxoyî",
       "avatarUrl": "https://cdn.discordapp.com/avatars/361503154837258240/d828c8e0f42e8a0656e866ed1ddc1ecf.png?size=128",
-      "score": 321.68333333333334,
+      "score": 322.68333333333334,
       "messages": 10,
-      "voiceSeconds": 19241
+      "voiceSeconds": 19301
     },
     {
       "userId": "805146225002938411",
@@ -74,12 +74,12 @@
       "voiceSeconds": 16673
     },
     {
-      "userId": "1432055525482299533",
-      "displayName": "exam wanê",
-      "avatarUrl": "https://cdn.discordapp.com/avatars/1432055525482299533/3c7ec709add70b3fb2c33b508215fbb8.png?size=128",
-      "score": 237.4,
-      "messages": 16,
-      "voiceSeconds": 14148
+      "userId": "675684250573602837",
+      "displayName": "𝘉𝘦𝘬𝘪𝘳",
+      "avatarUrl": "https://cdn.discordapp.com/avatars/675684250573602837/a0954e43ee572d0c047414d4728d1d1f.png?size=128",
+      "score": 237.9,
+      "messages": 9,
+      "voiceSeconds": 14220
     }
   ],
   "allTime": [
@@ -143,9 +143,9 @@
       "userId": "361503154837258240",
       "displayName": "BageR Zaxoyî",
       "avatarUrl": "https://cdn.discordapp.com/avatars/361503154837258240/d828c8e0f42e8a0656e866ed1ddc1ecf.png?size=128",
-      "score": 321.68333333333334,
+      "score": 322.68333333333334,
       "messages": 10,
-      "voiceSeconds": 19241
+      "voiceSeconds": 19301
     },
     {
       "userId": "805146225002938411",
@@ -156,12 +156,12 @@
       "voiceSeconds": 16673
     },
     {
-      "userId": "1432055525482299533",
-      "displayName": "exam wanê",
-      "avatarUrl": "https://cdn.discordapp.com/avatars/1432055525482299533/3c7ec709add70b3fb2c33b508215fbb8.png?size=128",
-      "score": 237.4,
-      "messages": 16,
-      "voiceSeconds": 14148
+      "userId": "675684250573602837",
+      "displayName": "𝘉𝘦𝘬𝘪𝘳",
+      "avatarUrl": "https://cdn.discordapp.com/avatars/675684250573602837/a0954e43ee572d0c047414d4728d1d1f.png?size=128",
+      "score": 237.9,
+      "messages": 9,
+      "voiceSeconds": 14220
     }
   ]
 }
