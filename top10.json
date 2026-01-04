@@ -1,21 +1,21 @@
 {
-  "generatedAtUtc": "2026-01-04T13:09:21.000Z",
+  "generatedAtUtc": "2026-01-04T13:10:21.000Z",
   "sevenDays": [
     {
       "userId": "634818840542445580",
       "displayName": "Chill",
       "avatarUrl": "https://cdn.discordapp.com/avatars/634818840542445580/c4602b4b2c327228e903ab6f99e059ed.png?size=128",
-      "score": 845,
+      "score": 846,
       "messages": 0,
-      "voiceSeconds": 50700
+      "voiceSeconds": 50760
     },
     {
       "userId": "1217876350703239288",
       "displayName": "Panayotis Kurdopoulos",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1217876350703239288/a873e7e86bc5ee4ae23324f03e6d2742.png?size=128",
-      "score": 585.5,
+      "score": 586.5,
       "messages": 22,
-      "voiceSeconds": 34998
+      "voiceSeconds": 35058
     },
     {
       "userId": "1151982656020557914",
@@ -45,17 +45,17 @@
       "userId": "718951317124546641",
       "displayName": "Po$$",
       "avatarUrl": "https://cdn.discordapp.com/avatars/718951317124546641/e9823863db64476e9e7d3118493da772.png?size=128",
-      "score": 304.45,
+      "score": 305.45,
       "messages": 8,
-      "voiceSeconds": 18219
+      "voiceSeconds": 18279
     },
     {
       "userId": "793416870703267840",
       "displayName": "Gulê",
       "avatarUrl": "https://cdn.discordapp.com/avatars/793416870703267840/15032e82c21576ed7b49ebb8b824340a.png?size=128",
-      "score": 248.86666666666667,
+      "score": 249.86666666666667,
       "messages": 26,
-      "voiceSeconds": 14776
+      "voiceSeconds": 14836
     },
     {
       "userId": "1432055525482299533",
@@ -87,17 +87,17 @@
       "userId": "634818840542445580",
       "displayName": "Chill",
       "avatarUrl": "https://cdn.discordapp.com/avatars/634818840542445580/c4602b4b2c327228e903ab6f99e059ed.png?size=128",
-      "score": 845,
+      "score": 846,
       "messages": 0,
-      "voiceSeconds": 50700
+      "voiceSeconds": 50760
     },
     {
       "userId": "1217876350703239288",
       "displayName": "Panayotis Kurdopoulos",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1217876350703239288/a873e7e86bc5ee4ae23324f03e6d2742.png?size=128",
-      "score": 585.5,
+      "score": 586.5,
       "messages": 22,
-      "voiceSeconds": 34998
+      "voiceSeconds": 35058
     },
     {
       "userId": "1151982656020557914",
@@ -127,17 +127,17 @@
       "userId": "718951317124546641",
       "displayName": "Po$$",
       "avatarUrl": "https://cdn.discordapp.com/avatars/718951317124546641/e9823863db64476e9e7d3118493da772.png?size=128",
-      "score": 304.45,
+      "score": 305.45,
       "messages": 8,
-      "voiceSeconds": 18219
+      "voiceSeconds": 18279
     },
     {
       "userId": "793416870703267840",
       "displayName": "Gulê",
       "avatarUrl": "https://cdn.discordapp.com/avatars/793416870703267840/15032e82c21576ed7b49ebb8b824340a.png?size=128",
-      "score": 248.86666666666667,
+      "score": 249.86666666666667,
       "messages": 26,
-      "voiceSeconds": 14776
+      "voiceSeconds": 14836
     },
     {
       "userId": "1432055525482299533",
