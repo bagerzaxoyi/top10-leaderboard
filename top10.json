@@ -1,37 +1,37 @@
 {
-  "generatedAtUtc": "2026-01-04T02:17:12.000Z",
+  "generatedAtUtc": "2026-01-04T02:18:12.000Z",
   "sevenDays": [
     {
       "userId": "1217876350703239288",
       "displayName": "Panayotis Kurdopoulos",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1217876350703239288/a873e7e86bc5ee4ae23324f03e6d2742.png?size=128",
-      "score": 223.88333333333333,
+      "score": 224.88333333333333,
       "messages": 9,
-      "voiceSeconds": 13379
+      "voiceSeconds": 13439
     },
     {
       "userId": "1432055525482299533",
       "displayName": "exam wanê",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1432055525482299533/3c7ec709add70b3fb2c33b508215fbb8.png?size=128",
-      "score": 221.71666666666667,
-      "messages": 3,
-      "voiceSeconds": 13285
+      "score": 223.41666666666666,
+      "messages": 10,
+      "voiceSeconds": 13345
     },
     {
       "userId": "1423118137448071229",
       "displayName": "Serok Donald J.Trump",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1423118137448071229/96da1661b1c05120b6409eec32d3815b.png?size=128",
-      "score": 219.91666666666666,
+      "score": 220.91666666666666,
       "messages": 0,
-      "voiceSeconds": 13195
+      "voiceSeconds": 13255
     },
     {
       "userId": "938559736838762527",
       "displayName": "thomas botani",
       "avatarUrl": "https://cdn.discordapp.com/avatars/938559736838762527/e524dd3571e1d716b5a64e43b8fe5425.png?size=128",
-      "score": 209.16666666666666,
+      "score": 210.16666666666666,
       "messages": 0,
-      "voiceSeconds": 12550
+      "voiceSeconds": 12610
     },
     {
       "userId": "765521370078904321",
@@ -42,6 +42,14 @@
       "voiceSeconds": 11707
     },
     {
+      "userId": "634818840542445580",
+      "displayName": "Chill",
+      "avatarUrl": "https://cdn.discordapp.com/avatars/634818840542445580/c4602b4b2c327228e903ab6f99e059ed.png?size=128",
+      "score": 194,
+      "messages": 0,
+      "voiceSeconds": 11640
+    },
+    {
       "userId": "361503154837258240",
       "displayName": "BageR Zaxoyî",
       "avatarUrl": "https://cdn.discordapp.com/avatars/361503154837258240/d828c8e0f42e8a0656e866ed1ddc1ecf.png?size=128",
@@ -50,28 +58,20 @@
       "voiceSeconds": 11576
     },
     {
-      "userId": "634818840542445580",
-      "displayName": "Chill",
-      "avatarUrl": "https://cdn.discordapp.com/avatars/634818840542445580/c4602b4b2c327228e903ab6f99e059ed.png?size=128",
-      "score": 193,
-      "messages": 0,
-      "voiceSeconds": 11580
-    },
-    {
       "userId": "1265999579690565732",
       "displayName": "mirzada",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1265999579690565732/ba804a5cc8e7ac1230b4428c196096db.png?size=128",
-      "score": 176,
+      "score": 177,
       "messages": 10,
-      "voiceSeconds": 10500
+      "voiceSeconds": 10560
     },
     {
       "userId": "1151982656020557914",
       "displayName": "Mr. Olympia",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1151982656020557914/1b0a7e04ecda4c2876cd472a9476245d.png?size=128",
-      "score": 174.6,
+      "score": 175.6,
       "messages": 0,
-      "voiceSeconds": 10476
+      "voiceSeconds": 10536
     },
     {
       "userId": "462717523549224972",
@@ -87,33 +87,33 @@
       "userId": "1217876350703239288",
       "displayName": "Panayotis Kurdopoulos",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1217876350703239288/a873e7e86bc5ee4ae23324f03e6d2742.png?size=128",
-      "score": 223.88333333333333,
+      "score": 224.88333333333333,
       "messages": 9,
-      "voiceSeconds": 13379
+      "voiceSeconds": 13439
     },
     {
       "userId": "1432055525482299533",
       "displayName": "exam wanê",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1432055525482299533/3c7ec709add70b3fb2c33b508215fbb8.png?size=128",
-      "score": 221.71666666666667,
-      "messages": 3,
-      "voiceSeconds": 13285
+      "score": 223.41666666666666,
+      "messages": 10,
+      "voiceSeconds": 13345
     },
     {
       "userId": "1423118137448071229",
       "displayName": "Serok Donald J.Trump",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1423118137448071229/96da1661b1c05120b6409eec32d3815b.png?size=128",
-      "score": 219.91666666666666,
+      "score": 220.91666666666666,
       "messages": 0,
-      "voiceSeconds": 13195
+      "voiceSeconds": 13255
     },
     {
       "userId": "938559736838762527",
       "displayName": "thomas botani",
       "avatarUrl": "https://cdn.discordapp.com/avatars/938559736838762527/e524dd3571e1d716b5a64e43b8fe5425.png?size=128",
-      "score": 209.16666666666666,
+      "score": 210.16666666666666,
       "messages": 0,
-      "voiceSeconds": 12550
+      "voiceSeconds": 12610
     },
     {
       "userId": "765521370078904321",
@@ -124,6 +124,14 @@
       "voiceSeconds": 11707
     },
     {
+      "userId": "634818840542445580",
+      "displayName": "Chill",
+      "avatarUrl": "https://cdn.discordapp.com/avatars/634818840542445580/c4602b4b2c327228e903ab6f99e059ed.png?size=128",
+      "score": 194,
+      "messages": 0,
+      "voiceSeconds": 11640
+    },
+    {
       "userId": "361503154837258240",
       "displayName": "BageR Zaxoyî",
       "avatarUrl": "https://cdn.discordapp.com/avatars/361503154837258240/d828c8e0f42e8a0656e866ed1ddc1ecf.png?size=128",
@@ -132,28 +140,20 @@
       "voiceSeconds": 11576
     },
     {
-      "userId": "634818840542445580",
-      "displayName": "Chill",
-      "avatarUrl": "https://cdn.discordapp.com/avatars/634818840542445580/c4602b4b2c327228e903ab6f99e059ed.png?size=128",
-      "score": 193,
-      "messages": 0,
-      "voiceSeconds": 11580
-    },
-    {
       "userId": "1265999579690565732",
       "displayName": "mirzada",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1265999579690565732/ba804a5cc8e7ac1230b4428c196096db.png?size=128",
-      "score": 176,
+      "score": 177,
       "messages": 10,
-      "voiceSeconds": 10500
+      "voiceSeconds": 10560
     },
     {
       "userId": "1151982656020557914",
       "displayName": "Mr. Olympia",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1151982656020557914/1b0a7e04ecda4c2876cd472a9476245d.png?size=128",
-      "score": 174.6,
+      "score": 175.6,
       "messages": 0,
-      "voiceSeconds": 10476
+      "voiceSeconds": 10536
     },
     {
       "userId": "462717523549224972",
