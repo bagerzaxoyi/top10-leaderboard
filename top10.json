@@ -1,21 +1,21 @@
 {
-  "generatedAtUtc": "2026-01-05T22:05:47.000Z",
+  "generatedAtUtc": "2026-01-05T22:06:47.000Z",
   "sevenDays": [
     {
       "userId": "793416870703267840",
       "displayName": "Gulê",
       "avatarUrl": "https://cdn.discordapp.com/avatars/793416870703267840/15032e82c21576ed7b49ebb8b824340a.png?size=128",
-      "score": 2024.3833333333334,
+      "score": 2025.3833333333334,
       "messages": 75,
-      "voiceSeconds": 121013
+      "voiceSeconds": 121073
     },
     {
       "userId": "462717523549224972",
       "displayName": "Zagros",
       "avatarUrl": "https://cdn.discordapp.com/avatars/462717523549224972/fcef59f9e81ba474384a9ccd5135be44.png?size=128",
-      "score": 1386.9666666666667,
+      "score": 1387.9666666666667,
       "messages": 60,
-      "voiceSeconds": 82858
+      "voiceSeconds": 82918
     },
     {
       "userId": "718951317124546641",
@@ -37,9 +37,9 @@
       "userId": "1217876350703239288",
       "displayName": "Panayotis Kurdopoulos",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1217876350703239288/a873e7e86bc5ee4ae23324f03e6d2742.png?size=128",
-      "score": 1134.1000000000001,
+      "score": 1135.1000000000001,
       "messages": 67,
-      "voiceSeconds": 67644
+      "voiceSeconds": 67704
     },
     {
       "userId": "486532783431483402",
@@ -53,9 +53,9 @@
       "userId": "361503154837258240",
       "displayName": "BageR Zaxoyî",
       "avatarUrl": "https://cdn.discordapp.com/avatars/361503154837258240/d828c8e0f42e8a0656e866ed1ddc1ecf.png?size=128",
-      "score": 1073.05,
+      "score": 1074.05,
       "messages": 32,
-      "voiceSeconds": 64191
+      "voiceSeconds": 64251
     },
     {
       "userId": "1423118137448071229",
@@ -77,9 +77,9 @@
       "userId": "1151982656020557914",
       "displayName": "APO Leonardo B.",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1151982656020557914/1b0a7e04ecda4c2876cd472a9476245d.png?size=128",
-      "score": 733.7,
+      "score": 734.7,
       "messages": 1,
-      "voiceSeconds": 44016
+      "voiceSeconds": 44076
     }
   ],
   "allTime": [
@@ -87,17 +87,17 @@
       "userId": "793416870703267840",
       "displayName": "Gulê",
       "avatarUrl": "https://cdn.discordapp.com/avatars/793416870703267840/15032e82c21576ed7b49ebb8b824340a.png?size=128",
-      "score": 2024.3833333333334,
+      "score": 2025.3833333333334,
       "messages": 75,
-      "voiceSeconds": 121013
+      "voiceSeconds": 121073
     },
     {
       "userId": "462717523549224972",
       "displayName": "Zagros",
       "avatarUrl": "https://cdn.discordapp.com/avatars/462717523549224972/fcef59f9e81ba474384a9ccd5135be44.png?size=128",
-      "score": 1386.9666666666667,
+      "score": 1387.9666666666667,
       "messages": 60,
-      "voiceSeconds": 82858
+      "voiceSeconds": 82918
     },
     {
       "userId": "718951317124546641",
@@ -119,9 +119,9 @@
       "userId": "1217876350703239288",
       "displayName": "Panayotis Kurdopoulos",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1217876350703239288/a873e7e86bc5ee4ae23324f03e6d2742.png?size=128",
-      "score": 1134.1000000000001,
+      "score": 1135.1000000000001,
       "messages": 67,
-      "voiceSeconds": 67644
+      "voiceSeconds": 67704
     },
     {
       "userId": "486532783431483402",
@@ -135,9 +135,9 @@
       "userId": "361503154837258240",
       "displayName": "BageR Zaxoyî",
       "avatarUrl": "https://cdn.discordapp.com/avatars/361503154837258240/d828c8e0f42e8a0656e866ed1ddc1ecf.png?size=128",
-      "score": 1073.05,
+      "score": 1074.05,
       "messages": 32,
-      "voiceSeconds": 64191
+      "voiceSeconds": 64251
     },
     {
       "userId": "1423118137448071229",
@@ -159,9 +159,9 @@
       "userId": "1151982656020557914",
       "displayName": "APO Leonardo B.",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1151982656020557914/1b0a7e04ecda4c2876cd472a9476245d.png?size=128",
-      "score": 733.7,
+      "score": 734.7,
       "messages": 1,
-      "voiceSeconds": 44016
+      "voiceSeconds": 44076
     }
   ]
 }
