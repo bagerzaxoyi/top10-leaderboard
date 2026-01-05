@@ -1,5 +1,5 @@
 {
-  "generatedAtUtc": "2026-01-05T15:12:42.000Z",
+  "generatedAtUtc": "2026-01-05T15:13:42.000Z",
   "sevenDays": [
     {
       "userId": "793416870703267840",
@@ -21,9 +21,9 @@
       "userId": "551765509226496016",
       "displayName": "RAVEN",
       "avatarUrl": "https://cdn.discordapp.com/avatars/551765509226496016/a792d14d9f7ab1ea8b9eefcb155fb2ca.png?size=128",
-      "score": 1064.35,
+      "score": 1065.35,
       "messages": 1,
-      "voiceSeconds": 63855
+      "voiceSeconds": 63915
     },
     {
       "userId": "462717523549224972",
@@ -37,9 +37,9 @@
       "userId": "486532783431483402",
       "displayName": "dilemma",
       "avatarUrl": "https://cdn.discordapp.com/avatars/486532783431483402/076e622fdc5da712e32ca30669daeabd.png?size=128",
-      "score": 988.5500000000001,
+      "score": 989.5500000000001,
       "messages": 7,
-      "voiceSeconds": 59271
+      "voiceSeconds": 59331
     },
     {
       "userId": "361503154837258240",
@@ -103,9 +103,9 @@
       "userId": "551765509226496016",
       "displayName": "RAVEN",
       "avatarUrl": "https://cdn.discordapp.com/avatars/551765509226496016/a792d14d9f7ab1ea8b9eefcb155fb2ca.png?size=128",
-      "score": 1064.35,
+      "score": 1065.35,
       "messages": 1,
-      "voiceSeconds": 63855
+      "voiceSeconds": 63915
     },
     {
       "userId": "462717523549224972",
@@ -119,9 +119,9 @@
       "userId": "486532783431483402",
       "displayName": "dilemma",
       "avatarUrl": "https://cdn.discordapp.com/avatars/486532783431483402/076e622fdc5da712e32ca30669daeabd.png?size=128",
-      "score": 988.5500000000001,
+      "score": 989.5500000000001,
       "messages": 7,
-      "voiceSeconds": 59271
+      "voiceSeconds": 59331
     },
     {
       "userId": "361503154837258240",
