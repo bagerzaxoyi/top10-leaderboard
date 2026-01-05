@@ -1,5 +1,5 @@
 {
-  "generatedAtUtc": "2026-01-05T15:41:42.000Z",
+  "generatedAtUtc": "2026-01-05T15:42:42.000Z",
   "sevenDays": [
     {
       "userId": "793416870703267840",
@@ -21,25 +21,25 @@
       "userId": "551765509226496016",
       "displayName": "RAVEN",
       "avatarUrl": "https://cdn.discordapp.com/avatars/551765509226496016/a792d14d9f7ab1ea8b9eefcb155fb2ca.png?size=128",
-      "score": 1093.35,
+      "score": 1094.35,
       "messages": 1,
-      "voiceSeconds": 65595
+      "voiceSeconds": 65655
     },
     {
       "userId": "486532783431483402",
       "displayName": "dilemma",
       "avatarUrl": "https://cdn.discordapp.com/avatars/486532783431483402/076e622fdc5da712e32ca30669daeabd.png?size=128",
-      "score": 1017.5500000000001,
+      "score": 1018.5500000000001,
       "messages": 7,
-      "voiceSeconds": 61011
+      "voiceSeconds": 61071
     },
     {
       "userId": "462717523549224972",
       "displayName": "Zagros",
       "avatarUrl": "https://cdn.discordapp.com/avatars/462717523549224972/fcef59f9e81ba474384a9ccd5135be44.png?size=128",
-      "score": 1002.9166666666666,
+      "score": 1002.9666666666667,
       "messages": 50,
-      "voiceSeconds": 59875
+      "voiceSeconds": 59878
     },
     {
       "userId": "361503154837258240",
@@ -103,25 +103,25 @@
       "userId": "551765509226496016",
       "displayName": "RAVEN",
       "avatarUrl": "https://cdn.discordapp.com/avatars/551765509226496016/a792d14d9f7ab1ea8b9eefcb155fb2ca.png?size=128",
-      "score": 1093.35,
+      "score": 1094.35,
       "messages": 1,
-      "voiceSeconds": 65595
+      "voiceSeconds": 65655
     },
     {
       "userId": "486532783431483402",
       "displayName": "dilemma",
       "avatarUrl": "https://cdn.discordapp.com/avatars/486532783431483402/076e622fdc5da712e32ca30669daeabd.png?size=128",
-      "score": 1017.5500000000001,
+      "score": 1018.5500000000001,
       "messages": 7,
-      "voiceSeconds": 61011
+      "voiceSeconds": 61071
     },
     {
       "userId": "462717523549224972",
       "displayName": "Zagros",
       "avatarUrl": "https://cdn.discordapp.com/avatars/462717523549224972/fcef59f9e81ba474384a9ccd5135be44.png?size=128",
-      "score": 1002.9166666666666,
+      "score": 1002.9666666666667,
       "messages": 50,
-      "voiceSeconds": 59875
+      "voiceSeconds": 59878
     },
     {
       "userId": "361503154837258240",
