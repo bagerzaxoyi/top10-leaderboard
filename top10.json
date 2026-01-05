@@ -1,21 +1,21 @@
 {
-  "generatedAtUtc": "2026-01-05T21:11:46.000Z",
+  "generatedAtUtc": "2026-01-05T21:12:46.000Z",
   "sevenDays": [
     {
       "userId": "793416870703267840",
       "displayName": "Gulê",
       "avatarUrl": "https://cdn.discordapp.com/avatars/793416870703267840/15032e82c21576ed7b49ebb8b824340a.png?size=128",
-      "score": 1970.0333333333333,
+      "score": 1971.0333333333333,
       "messages": 71,
-      "voiceSeconds": 117776
+      "voiceSeconds": 117836
     },
     {
       "userId": "462717523549224972",
       "displayName": "Zagros",
       "avatarUrl": "https://cdn.discordapp.com/avatars/462717523549224972/fcef59f9e81ba474384a9ccd5135be44.png?size=128",
-      "score": 1332.3666666666668,
+      "score": 1333.3666666666668,
       "messages": 54,
-      "voiceSeconds": 79618
+      "voiceSeconds": 79678
     },
     {
       "userId": "718951317124546641",
@@ -45,17 +45,17 @@
       "userId": "1217876350703239288",
       "displayName": "Panayotis Kurdopoulos",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1217876350703239288/a873e7e86bc5ee4ae23324f03e6d2742.png?size=128",
-      "score": 1079.6000000000001,
+      "score": 1080.6000000000001,
       "messages": 62,
-      "voiceSeconds": 64404
+      "voiceSeconds": 64464
     },
     {
       "userId": "361503154837258240",
       "displayName": "BageR Zaxoyî",
       "avatarUrl": "https://cdn.discordapp.com/avatars/361503154837258240/d828c8e0f42e8a0656e866ed1ddc1ecf.png?size=128",
-      "score": 1019.0500000000001,
+      "score": 1020.0500000000001,
       "messages": 32,
-      "voiceSeconds": 60951
+      "voiceSeconds": 61011
     },
     {
       "userId": "1423118137448071229",
@@ -69,9 +69,9 @@
       "userId": "1365457717699018872",
       "displayName": "Kinder der Sonne",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1365457717699018872/6102721260e3420b33ceef766c442c7e.png?size=128",
-      "score": 798.25,
+      "score": 799.25,
       "messages": 71,
-      "voiceSeconds": 47469
+      "voiceSeconds": 47529
     },
     {
       "userId": "675684250573602837",
@@ -87,17 +87,17 @@
       "userId": "793416870703267840",
       "displayName": "Gulê",
       "avatarUrl": "https://cdn.discordapp.com/avatars/793416870703267840/15032e82c21576ed7b49ebb8b824340a.png?size=128",
-      "score": 1970.0333333333333,
+      "score": 1971.0333333333333,
       "messages": 71,
-      "voiceSeconds": 117776
+      "voiceSeconds": 117836
     },
     {
       "userId": "462717523549224972",
       "displayName": "Zagros",
       "avatarUrl": "https://cdn.discordapp.com/avatars/462717523549224972/fcef59f9e81ba474384a9ccd5135be44.png?size=128",
-      "score": 1332.3666666666668,
+      "score": 1333.3666666666668,
       "messages": 54,
-      "voiceSeconds": 79618
+      "voiceSeconds": 79678
     },
     {
       "userId": "718951317124546641",
@@ -127,17 +127,17 @@
       "userId": "1217876350703239288",
       "displayName": "Panayotis Kurdopoulos",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1217876350703239288/a873e7e86bc5ee4ae23324f03e6d2742.png?size=128",
-      "score": 1079.6000000000001,
+      "score": 1080.6000000000001,
       "messages": 62,
-      "voiceSeconds": 64404
+      "voiceSeconds": 64464
     },
     {
       "userId": "361503154837258240",
       "displayName": "BageR Zaxoyî",
       "avatarUrl": "https://cdn.discordapp.com/avatars/361503154837258240/d828c8e0f42e8a0656e866ed1ddc1ecf.png?size=128",
-      "score": 1019.0500000000001,
+      "score": 1020.0500000000001,
       "messages": 32,
-      "voiceSeconds": 60951
+      "voiceSeconds": 61011
     },
     {
       "userId": "1423118137448071229",
@@ -151,9 +151,9 @@
       "userId": "1365457717699018872",
       "displayName": "Kinder der Sonne",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1365457717699018872/6102721260e3420b33ceef766c442c7e.png?size=128",
-      "score": 798.25,
+      "score": 799.25,
       "messages": 71,
-      "voiceSeconds": 47469
+      "voiceSeconds": 47529
     },
     {
       "userId": "675684250573602837",
