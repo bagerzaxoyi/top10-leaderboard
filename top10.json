@@ -1,21 +1,21 @@
 {
-  "generatedAtUtc": "2026-01-05T03:43:31.000Z",
+  "generatedAtUtc": "2026-01-05T03:44:31.000Z",
   "sevenDays": [
     {
       "userId": "793416870703267840",
       "displayName": "Gulê",
       "avatarUrl": "https://cdn.discordapp.com/avatars/793416870703267840/15032e82c21576ed7b49ebb8b824340a.png?size=128",
-      "score": 972.5333333333333,
+      "score": 973.5333333333333,
       "messages": 46,
-      "voiceSeconds": 58076
+      "voiceSeconds": 58136
     },
     {
       "userId": "361503154837258240",
       "displayName": "BageR Zaxoyî",
       "avatarUrl": "https://cdn.discordapp.com/avatars/361503154837258240/d828c8e0f42e8a0656e866ed1ddc1ecf.png?size=128",
-      "score": 940.7833333333334,
+      "score": 941.7833333333334,
       "messages": 32,
-      "voiceSeconds": 56255
+      "voiceSeconds": 56315
     },
     {
       "userId": "462717523549224972",
@@ -29,9 +29,9 @@
       "userId": "718951317124546641",
       "displayName": "Po$$",
       "avatarUrl": "https://cdn.discordapp.com/avatars/718951317124546641/e9823863db64476e9e7d3118493da772.png?size=128",
-      "score": 809.5,
+      "score": 810.5,
       "messages": 31,
-      "voiceSeconds": 48384
+      "voiceSeconds": 48444
     },
     {
       "userId": "1217876350703239288",
@@ -77,9 +77,9 @@
       "userId": "1423118137448071229",
       "displayName": "Serok Donald J.Trump",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1423118137448071229/96da1661b1c05120b6409eec32d3815b.png?size=128",
-      "score": 548.9666666666667,
+      "score": 549.9666666666667,
       "messages": 4,
-      "voiceSeconds": 32914
+      "voiceSeconds": 32974
     }
   ],
   "allTime": [
@@ -87,17 +87,17 @@
       "userId": "793416870703267840",
       "displayName": "Gulê",
       "avatarUrl": "https://cdn.discordapp.com/avatars/793416870703267840/15032e82c21576ed7b49ebb8b824340a.png?size=128",
-      "score": 972.5333333333333,
+      "score": 973.5333333333333,
       "messages": 46,
-      "voiceSeconds": 58076
+      "voiceSeconds": 58136
     },
     {
       "userId": "361503154837258240",
       "displayName": "BageR Zaxoyî",
       "avatarUrl": "https://cdn.discordapp.com/avatars/361503154837258240/d828c8e0f42e8a0656e866ed1ddc1ecf.png?size=128",
-      "score": 940.7833333333334,
+      "score": 941.7833333333334,
       "messages": 32,
-      "voiceSeconds": 56255
+      "voiceSeconds": 56315
     },
     {
       "userId": "462717523549224972",
@@ -111,9 +111,9 @@
       "userId": "718951317124546641",
       "displayName": "Po$$",
       "avatarUrl": "https://cdn.discordapp.com/avatars/718951317124546641/e9823863db64476e9e7d3118493da772.png?size=128",
-      "score": 809.5,
+      "score": 810.5,
       "messages": 31,
-      "voiceSeconds": 48384
+      "voiceSeconds": 48444
     },
     {
       "userId": "1217876350703239288",
@@ -159,9 +159,9 @@
       "userId": "1423118137448071229",
       "displayName": "Serok Donald J.Trump",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1423118137448071229/96da1661b1c05120b6409eec32d3815b.png?size=128",
-      "score": 548.9666666666667,
+      "score": 549.9666666666667,
       "messages": 4,
-      "voiceSeconds": 32914
+      "voiceSeconds": 32974
     }
   ]
 }
