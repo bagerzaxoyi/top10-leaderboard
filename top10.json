@@ -1,21 +1,21 @@
 {
-  "generatedAtUtc": "2026-01-06T11:01:58.000Z",
+  "generatedAtUtc": "2026-01-06T11:02:58.000Z",
   "sevenDays": [
     {
       "userId": "793416870703267840",
       "displayName": "Gulê",
       "avatarUrl": "https://cdn.discordapp.com/avatars/793416870703267840/15032e82c21576ed7b49ebb8b824340a.png?size=128",
-      "score": 2529.5,
+      "score": 2530.016666666667,
       "messages": 98,
-      "voiceSeconds": 151182
+      "voiceSeconds": 151213
     },
     {
       "userId": "718951317124546641",
       "displayName": "Po$$",
       "avatarUrl": "https://cdn.discordapp.com/avatars/718951317124546641/e9823863db64476e9e7d3118493da772.png?size=128",
-      "score": 1683.8333333333333,
+      "score": 1684.8333333333333,
       "messages": 50,
-      "voiceSeconds": 100730
+      "voiceSeconds": 100790
     },
     {
       "userId": "462717523549224972",
@@ -53,9 +53,9 @@
       "userId": "361503154837258240",
       "displayName": "BageR Zaxoyî",
       "avatarUrl": "https://cdn.discordapp.com/avatars/361503154837258240/d828c8e0f42e8a0656e866ed1ddc1ecf.png?size=128",
-      "score": 1238.6166666666668,
+      "score": 1239.6166666666668,
       "messages": 34,
-      "voiceSeconds": 74113
+      "voiceSeconds": 74173
     },
     {
       "userId": "1365457717699018872",
@@ -87,17 +87,17 @@
       "userId": "793416870703267840",
       "displayName": "Gulê",
       "avatarUrl": "https://cdn.discordapp.com/avatars/793416870703267840/15032e82c21576ed7b49ebb8b824340a.png?size=128",
-      "score": 2529.5,
+      "score": 2530.016666666667,
       "messages": 98,
-      "voiceSeconds": 151182
+      "voiceSeconds": 151213
     },
     {
       "userId": "718951317124546641",
       "displayName": "Po$$",
       "avatarUrl": "https://cdn.discordapp.com/avatars/718951317124546641/e9823863db64476e9e7d3118493da772.png?size=128",
-      "score": 1683.8333333333333,
+      "score": 1684.8333333333333,
       "messages": 50,
-      "voiceSeconds": 100730
+      "voiceSeconds": 100790
     },
     {
       "userId": "462717523549224972",
@@ -135,9 +135,9 @@
       "userId": "361503154837258240",
       "displayName": "BageR Zaxoyî",
       "avatarUrl": "https://cdn.discordapp.com/avatars/361503154837258240/d828c8e0f42e8a0656e866ed1ddc1ecf.png?size=128",
-      "score": 1238.6166666666668,
+      "score": 1239.6166666666668,
       "messages": 34,
-      "voiceSeconds": 74113
+      "voiceSeconds": 74173
     },
     {
       "userId": "1365457717699018872",
