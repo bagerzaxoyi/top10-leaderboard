@@ -1,21 +1,21 @@
 {
-  "generatedAtUtc": "2026-01-06T10:43:58.000Z",
+  "generatedAtUtc": "2026-01-06T10:44:58.000Z",
   "sevenDays": [
     {
       "userId": "793416870703267840",
       "displayName": "Gulê",
       "avatarUrl": "https://cdn.discordapp.com/avatars/793416870703267840/15032e82c21576ed7b49ebb8b824340a.png?size=128",
-      "score": 2511.5,
+      "score": 2512.5,
       "messages": 98,
-      "voiceSeconds": 150102
+      "voiceSeconds": 150162
     },
     {
       "userId": "718951317124546641",
       "displayName": "Po$$",
       "avatarUrl": "https://cdn.discordapp.com/avatars/718951317124546641/e9823863db64476e9e7d3118493da772.png?size=128",
-      "score": 1677.4666666666667,
+      "score": 1678.4666666666667,
       "messages": 50,
-      "voiceSeconds": 100348
+      "voiceSeconds": 100408
     },
     {
       "userId": "462717523549224972",
@@ -45,9 +45,9 @@
       "userId": "486532783431483402",
       "displayName": "dilemma",
       "avatarUrl": "https://cdn.discordapp.com/avatars/486532783431483402/076e622fdc5da712e32ca30669daeabd.png?size=128",
-      "score": 1306.4166666666667,
+      "score": 1307.4166666666667,
       "messages": 9,
-      "voiceSeconds": 78331
+      "voiceSeconds": 78391
     },
     {
       "userId": "361503154837258240",
@@ -87,17 +87,17 @@
       "userId": "793416870703267840",
       "displayName": "Gulê",
       "avatarUrl": "https://cdn.discordapp.com/avatars/793416870703267840/15032e82c21576ed7b49ebb8b824340a.png?size=128",
-      "score": 2511.5,
+      "score": 2512.5,
       "messages": 98,
-      "voiceSeconds": 150102
+      "voiceSeconds": 150162
     },
     {
       "userId": "718951317124546641",
       "displayName": "Po$$",
       "avatarUrl": "https://cdn.discordapp.com/avatars/718951317124546641/e9823863db64476e9e7d3118493da772.png?size=128",
-      "score": 1677.4666666666667,
+      "score": 1678.4666666666667,
       "messages": 50,
-      "voiceSeconds": 100348
+      "voiceSeconds": 100408
     },
     {
       "userId": "462717523549224972",
@@ -127,9 +127,9 @@
       "userId": "486532783431483402",
       "displayName": "dilemma",
       "avatarUrl": "https://cdn.discordapp.com/avatars/486532783431483402/076e622fdc5da712e32ca30669daeabd.png?size=128",
-      "score": 1306.4166666666667,
+      "score": 1307.4166666666667,
       "messages": 9,
-      "voiceSeconds": 78331
+      "voiceSeconds": 78391
     },
     {
       "userId": "361503154837258240",
