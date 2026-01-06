@@ -1,5 +1,5 @@
 {
-  "generatedAtUtc": "2026-01-06T08:22:56.000Z",
+  "generatedAtUtc": "2026-01-06T08:23:56.000Z",
   "sevenDays": [
     {
       "userId": "793416870703267840",
@@ -45,9 +45,9 @@
       "userId": "486532783431483402",
       "displayName": "dilemma",
       "avatarUrl": "https://cdn.discordapp.com/avatars/486532783431483402/076e622fdc5da712e32ca30669daeabd.png?size=128",
-      "score": 1243.5833333333335,
+      "score": 1244.5833333333335,
       "messages": 9,
-      "voiceSeconds": 74561
+      "voiceSeconds": 74621
     },
     {
       "userId": "361503154837258240",
@@ -127,9 +127,9 @@
       "userId": "486532783431483402",
       "displayName": "dilemma",
       "avatarUrl": "https://cdn.discordapp.com/avatars/486532783431483402/076e622fdc5da712e32ca30669daeabd.png?size=128",
-      "score": 1243.5833333333335,
+      "score": 1244.5833333333335,
       "messages": 9,
-      "voiceSeconds": 74561
+      "voiceSeconds": 74621
     },
     {
       "userId": "361503154837258240",
