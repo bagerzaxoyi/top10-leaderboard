@@ -1,5 +1,5 @@
 {
-  "generatedAtUtc": "2026-01-06T04:06:51.000Z",
+  "generatedAtUtc": "2026-01-06T04:07:51.000Z",
   "sevenDays": [
     {
       "userId": "793416870703267840",
@@ -21,17 +21,17 @@
       "userId": "718951317124546641",
       "displayName": "Po$$",
       "avatarUrl": "https://cdn.discordapp.com/avatars/718951317124546641/e9823863db64476e9e7d3118493da772.png?size=128",
-      "score": 1548.5333333333333,
+      "score": 1549.5333333333333,
       "messages": 45,
-      "voiceSeconds": 92642
+      "voiceSeconds": 92702
     },
     {
       "userId": "1217876350703239288",
       "displayName": "Panayotis Kurdopoulos",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1217876350703239288/a873e7e86bc5ee4ae23324f03e6d2742.png?size=128",
-      "score": 1332.8666666666668,
+      "score": 1333.8666666666668,
       "messages": 74,
-      "voiceSeconds": 79528
+      "voiceSeconds": 79588
     },
     {
       "userId": "361503154837258240",
@@ -45,9 +45,9 @@
       "userId": "551765509226496016",
       "displayName": "RAVEN",
       "avatarUrl": "https://cdn.discordapp.com/avatars/551765509226496016/a792d14d9f7ab1ea8b9eefcb155fb2ca.png?size=128",
-      "score": 1210.6999999999998,
+      "score": 1211.6999999999998,
       "messages": 1,
-      "voiceSeconds": 72636
+      "voiceSeconds": 72696
     },
     {
       "userId": "486532783431483402",
@@ -74,12 +74,12 @@
       "voiceSeconds": 51503
     },
     {
-      "userId": "1431333749450346657",
-      "displayName": "Badinism",
-      "avatarUrl": "https://cdn.discordapp.com/avatars/1431333749450346657/2b97619a4c33fbe7221a776457a544f7.png?size=128",
-      "score": 823.3499999999999,
-      "messages": 13,
-      "voiceSeconds": 49323
+      "userId": "1365457717699018872",
+      "displayName": "Kinder der Sonne",
+      "avatarUrl": "https://cdn.discordapp.com/avatars/1365457717699018872/6102721260e3420b33ceef766c442c7e.png?size=128",
+      "score": 824.1833333333333,
+      "messages": 75,
+      "voiceSeconds": 49001
     }
   ],
   "allTime": [
@@ -103,17 +103,17 @@
       "userId": "718951317124546641",
       "displayName": "Po$$",
       "avatarUrl": "https://cdn.discordapp.com/avatars/718951317124546641/e9823863db64476e9e7d3118493da772.png?size=128",
-      "score": 1548.5333333333333,
+      "score": 1549.5333333333333,
       "messages": 45,
-      "voiceSeconds": 92642
+      "voiceSeconds": 92702
     },
     {
       "userId": "1217876350703239288",
       "displayName": "Panayotis Kurdopoulos",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1217876350703239288/a873e7e86bc5ee4ae23324f03e6d2742.png?size=128",
-      "score": 1332.8666666666668,
+      "score": 1333.8666666666668,
       "messages": 74,
-      "voiceSeconds": 79528
+      "voiceSeconds": 79588
     },
     {
       "userId": "361503154837258240",
@@ -127,9 +127,9 @@
       "userId": "551765509226496016",
       "displayName": "RAVEN",
       "avatarUrl": "https://cdn.discordapp.com/avatars/551765509226496016/a792d14d9f7ab1ea8b9eefcb155fb2ca.png?size=128",
-      "score": 1210.6999999999998,
+      "score": 1211.6999999999998,
       "messages": 1,
-      "voiceSeconds": 72636
+      "voiceSeconds": 72696
     },
     {
       "userId": "486532783431483402",
@@ -156,12 +156,12 @@
       "voiceSeconds": 51503
     },
     {
-      "userId": "1431333749450346657",
-      "displayName": "Badinism",
-      "avatarUrl": "https://cdn.discordapp.com/avatars/1431333749450346657/2b97619a4c33fbe7221a776457a544f7.png?size=128",
-      "score": 823.3499999999999,
-      "messages": 13,
-      "voiceSeconds": 49323
+      "userId": "1365457717699018872",
+      "displayName": "Kinder der Sonne",
+      "avatarUrl": "https://cdn.discordapp.com/avatars/1365457717699018872/6102721260e3420b33ceef766c442c7e.png?size=128",
+      "score": 824.1833333333333,
+      "messages": 75,
+      "voiceSeconds": 49001
     }
   ]
 }
