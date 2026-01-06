@@ -1,13 +1,13 @@
 {
-  "generatedAtUtc": "2026-01-06T06:12:53.000Z",
+  "generatedAtUtc": "2026-01-06T06:13:53.000Z",
   "sevenDays": [
     {
       "userId": "793416870703267840",
       "displayName": "Gulê",
       "avatarUrl": "https://cdn.discordapp.com/avatars/793416870703267840/15032e82c21576ed7b49ebb8b824340a.png?size=128",
-      "score": 2298.35,
+      "score": 2299.35,
       "messages": 96,
-      "voiceSeconds": 137325
+      "voiceSeconds": 137385
     },
     {
       "userId": "718951317124546641",
@@ -53,9 +53,9 @@
       "userId": "486532783431483402",
       "displayName": "dilemma",
       "avatarUrl": "https://cdn.discordapp.com/avatars/486532783431483402/076e622fdc5da712e32ca30669daeabd.png?size=128",
-      "score": 1113.5666666666666,
+      "score": 1114.5666666666666,
       "messages": 8,
-      "voiceSeconds": 66766
+      "voiceSeconds": 66826
     },
     {
       "userId": "1365457717699018872",
@@ -69,9 +69,9 @@
       "userId": "1151982656020557914",
       "displayName": "APO Leonardo B.",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1151982656020557914/1b0a7e04ecda4c2876cd472a9476245d.png?size=128",
-      "score": 890.2666666666667,
+      "score": 891.2666666666667,
       "messages": 1,
-      "voiceSeconds": 53410
+      "voiceSeconds": 53470
     },
     {
       "userId": "1432055525482299533",
@@ -87,9 +87,9 @@
       "userId": "793416870703267840",
       "displayName": "Gulê",
       "avatarUrl": "https://cdn.discordapp.com/avatars/793416870703267840/15032e82c21576ed7b49ebb8b824340a.png?size=128",
-      "score": 2298.35,
+      "score": 2299.35,
       "messages": 96,
-      "voiceSeconds": 137325
+      "voiceSeconds": 137385
     },
     {
       "userId": "718951317124546641",
@@ -135,9 +135,9 @@
       "userId": "486532783431483402",
       "displayName": "dilemma",
       "avatarUrl": "https://cdn.discordapp.com/avatars/486532783431483402/076e622fdc5da712e32ca30669daeabd.png?size=128",
-      "score": 1113.5666666666666,
+      "score": 1114.5666666666666,
       "messages": 8,
-      "voiceSeconds": 66766
+      "voiceSeconds": 66826
     },
     {
       "userId": "1365457717699018872",
@@ -151,9 +151,9 @@
       "userId": "1151982656020557914",
       "displayName": "APO Leonardo B.",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1151982656020557914/1b0a7e04ecda4c2876cd472a9476245d.png?size=128",
-      "score": 890.2666666666667,
+      "score": 891.2666666666667,
       "messages": 1,
-      "voiceSeconds": 53410
+      "voiceSeconds": 53470
     },
     {
       "userId": "1432055525482299533",
