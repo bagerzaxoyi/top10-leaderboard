@@ -1,5 +1,5 @@
 {
-  "generatedAtUtc": "2026-01-07T19:43:24.000Z",
+  "generatedAtUtc": "2026-01-07T19:44:24.000Z",
   "sevenDays": [
     {
       "userId": "793416870703267840",
@@ -13,17 +13,17 @@
       "userId": "718951317124546641",
       "displayName": "Po$$",
       "avatarUrl": "https://cdn.discordapp.com/avatars/718951317124546641/e9823863db64476e9e7d3118493da772.png?size=128",
-      "score": 3012.383333333333,
+      "score": 3013.383333333333,
       "messages": 97,
-      "voiceSeconds": 180161
+      "voiceSeconds": 180221
     },
     {
       "userId": "462717523549224972",
       "displayName": "Zagros",
       "avatarUrl": "https://cdn.discordapp.com/avatars/462717523549224972/fcef59f9e81ba474384a9ccd5135be44.png?size=128",
-      "score": 2558.616666666667,
+      "score": 2559.616666666667,
       "messages": 109,
-      "voiceSeconds": 152863
+      "voiceSeconds": 152923
     },
     {
       "userId": "551765509226496016",
@@ -77,9 +77,9 @@
       "userId": "1432055525482299533",
       "displayName": "exam wanê",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1432055525482299533/797aeb405914121cb6293314b44f2d59.png?size=128",
-      "score": 1135.3166666666666,
+      "score": 1136.25,
       "messages": 101,
-      "voiceSeconds": 67513
+      "voiceSeconds": 67569
     }
   ],
   "allTime": [
@@ -95,17 +95,17 @@
       "userId": "718951317124546641",
       "displayName": "Po$$",
       "avatarUrl": "https://cdn.discordapp.com/avatars/718951317124546641/e9823863db64476e9e7d3118493da772.png?size=128",
-      "score": 3012.383333333333,
+      "score": 3013.383333333333,
       "messages": 97,
-      "voiceSeconds": 180161
+      "voiceSeconds": 180221
     },
     {
       "userId": "462717523549224972",
       "displayName": "Zagros",
       "avatarUrl": "https://cdn.discordapp.com/avatars/462717523549224972/fcef59f9e81ba474384a9ccd5135be44.png?size=128",
-      "score": 2558.616666666667,
+      "score": 2559.616666666667,
       "messages": 109,
-      "voiceSeconds": 152863
+      "voiceSeconds": 152923
     },
     {
       "userId": "551765509226496016",
@@ -159,9 +159,9 @@
       "userId": "1432055525482299533",
       "displayName": "exam wanê",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1432055525482299533/797aeb405914121cb6293314b44f2d59.png?size=128",
-      "score": 1135.3166666666666,
+      "score": 1136.25,
       "messages": 101,
-      "voiceSeconds": 67513
+      "voiceSeconds": 67569
     }
   ]
 }
