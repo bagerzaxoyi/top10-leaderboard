@@ -1,5 +1,5 @@
 {
-  "generatedAtUtc": "2026-01-07T19:48:24.000Z",
+  "generatedAtUtc": "2026-01-07T19:49:24.000Z",
   "sevenDays": [
     {
       "userId": "793416870703267840",
@@ -13,17 +13,17 @@
       "userId": "718951317124546641",
       "displayName": "Po$$",
       "avatarUrl": "https://cdn.discordapp.com/avatars/718951317124546641/e9823863db64476e9e7d3118493da772.png?size=128",
-      "score": 3017.383333333333,
+      "score": 3018.383333333333,
       "messages": 97,
-      "voiceSeconds": 180461
+      "voiceSeconds": 180521
     },
     {
       "userId": "462717523549224972",
       "displayName": "Zagros",
       "avatarUrl": "https://cdn.discordapp.com/avatars/462717523549224972/fcef59f9e81ba474384a9ccd5135be44.png?size=128",
-      "score": 2563.616666666667,
+      "score": 2564.616666666667,
       "messages": 109,
-      "voiceSeconds": 153163
+      "voiceSeconds": 153223
     },
     {
       "userId": "551765509226496016",
@@ -53,17 +53,17 @@
       "userId": "1217876350703239288",
       "displayName": "Panayotis Kurdopoulos",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1217876350703239288/a873e7e86bc5ee4ae23324f03e6d2742.png?size=128",
-      "score": 1693.2833333333333,
+      "score": 1694.2833333333333,
       "messages": 76,
-      "voiceSeconds": 101141
+      "voiceSeconds": 101201
     },
     {
       "userId": "1265999579690565732",
       "displayName": "mirzade",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1265999579690565732/fb2805640845b141ab2b44b099a0c315.png?size=128",
-      "score": 1410.75,
+      "score": 1411.6666666666665,
       "messages": 198,
-      "voiceSeconds": 83457
+      "voiceSeconds": 83512
     },
     {
       "userId": "675684250573602837",
@@ -77,9 +77,9 @@
       "userId": "1432055525482299533",
       "displayName": "exam wanê",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1432055525482299533/797aeb405914121cb6293314b44f2d59.png?size=128",
-      "score": 1140.2333333333333,
+      "score": 1141.2333333333333,
       "messages": 101,
-      "voiceSeconds": 67808
+      "voiceSeconds": 67868
     }
   ],
   "allTime": [
@@ -95,17 +95,17 @@
       "userId": "718951317124546641",
       "displayName": "Po$$",
       "avatarUrl": "https://cdn.discordapp.com/avatars/718951317124546641/e9823863db64476e9e7d3118493da772.png?size=128",
-      "score": 3017.383333333333,
+      "score": 3018.383333333333,
       "messages": 97,
-      "voiceSeconds": 180461
+      "voiceSeconds": 180521
     },
     {
       "userId": "462717523549224972",
       "displayName": "Zagros",
       "avatarUrl": "https://cdn.discordapp.com/avatars/462717523549224972/fcef59f9e81ba474384a9ccd5135be44.png?size=128",
-      "score": 2563.616666666667,
+      "score": 2564.616666666667,
       "messages": 109,
-      "voiceSeconds": 153163
+      "voiceSeconds": 153223
     },
     {
       "userId": "551765509226496016",
@@ -135,17 +135,17 @@
       "userId": "1217876350703239288",
       "displayName": "Panayotis Kurdopoulos",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1217876350703239288/a873e7e86bc5ee4ae23324f03e6d2742.png?size=128",
-      "score": 1693.2833333333333,
+      "score": 1694.2833333333333,
       "messages": 76,
-      "voiceSeconds": 101141
+      "voiceSeconds": 101201
     },
     {
       "userId": "1265999579690565732",
       "displayName": "mirzade",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1265999579690565732/fb2805640845b141ab2b44b099a0c315.png?size=128",
-      "score": 1410.75,
+      "score": 1411.6666666666665,
       "messages": 198,
-      "voiceSeconds": 83457
+      "voiceSeconds": 83512
     },
     {
       "userId": "675684250573602837",
@@ -159,9 +159,9 @@
       "userId": "1432055525482299533",
       "displayName": "exam wanê",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1432055525482299533/797aeb405914121cb6293314b44f2d59.png?size=128",
-      "score": 1140.2333333333333,
+      "score": 1141.2333333333333,
       "messages": 101,
-      "voiceSeconds": 67808
+      "voiceSeconds": 67868
     }
   ]
 }
