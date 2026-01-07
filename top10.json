@@ -1,5 +1,5 @@
 {
-  "generatedAtUtc": "2026-01-07T06:23:12.000Z",
+  "generatedAtUtc": "2026-01-07T06:24:12.000Z",
   "sevenDays": [
     {
       "userId": "793416870703267840",
@@ -13,9 +13,9 @@
       "userId": "718951317124546641",
       "displayName": "Po$$",
       "avatarUrl": "https://cdn.discordapp.com/avatars/718951317124546641/e9823863db64476e9e7d3118493da772.png?size=128",
-      "score": 2663.083333333333,
+      "score": 2664.083333333333,
       "messages": 91,
-      "voiceSeconds": 159239
+      "voiceSeconds": 159299
     },
     {
       "userId": "462717523549224972",
@@ -45,9 +45,9 @@
       "userId": "551765509226496016",
       "displayName": "RAVEN",
       "avatarUrl": "https://cdn.discordapp.com/avatars/551765509226496016/a792d14d9f7ab1ea8b9eefcb155fb2ca.png?size=128",
-      "score": 1623.8,
+      "score": 1624.8,
       "messages": 8,
-      "voiceSeconds": 97380
+      "voiceSeconds": 97440
     },
     {
       "userId": "486532783431483402",
@@ -61,9 +61,9 @@
       "userId": "1265999579690565732",
       "displayName": "mirzade botani",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1265999579690565732/ba804a5cc8e7ac1230b4428c196096db.png?size=128",
-      "score": 1235.1499999999999,
+      "score": 1236.1499999999999,
       "messages": 173,
-      "voiceSeconds": 73071
+      "voiceSeconds": 73131
     },
     {
       "userId": "1432055525482299533",
@@ -95,9 +95,9 @@
       "userId": "718951317124546641",
       "displayName": "Po$$",
       "avatarUrl": "https://cdn.discordapp.com/avatars/718951317124546641/e9823863db64476e9e7d3118493da772.png?size=128",
-      "score": 2663.083333333333,
+      "score": 2664.083333333333,
       "messages": 91,
-      "voiceSeconds": 159239
+      "voiceSeconds": 159299
     },
     {
       "userId": "462717523549224972",
@@ -127,9 +127,9 @@
       "userId": "551765509226496016",
       "displayName": "RAVEN",
       "avatarUrl": "https://cdn.discordapp.com/avatars/551765509226496016/a792d14d9f7ab1ea8b9eefcb155fb2ca.png?size=128",
-      "score": 1623.8,
+      "score": 1624.8,
       "messages": 8,
-      "voiceSeconds": 97380
+      "voiceSeconds": 97440
     },
     {
       "userId": "486532783431483402",
@@ -143,9 +143,9 @@
       "userId": "1265999579690565732",
       "displayName": "mirzade botani",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1265999579690565732/ba804a5cc8e7ac1230b4428c196096db.png?size=128",
-      "score": 1235.1499999999999,
+      "score": 1236.1499999999999,
       "messages": 173,
-      "voiceSeconds": 73071
+      "voiceSeconds": 73131
     },
     {
       "userId": "1432055525482299533",
