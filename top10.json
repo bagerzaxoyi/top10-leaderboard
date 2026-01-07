@@ -1,29 +1,29 @@
 {
-  "generatedAtUtc": "2026-01-07T21:28:25.000Z",
+  "generatedAtUtc": "2026-01-07T21:29:25.000Z",
   "sevenDays": [
     {
       "userId": "793416870703267840",
       "displayName": "Gulê",
       "avatarUrl": "https://cdn.discordapp.com/avatars/793416870703267840/15032e82c21576ed7b49ebb8b824340a.png?size=128",
-      "score": 3388.1833333333334,
+      "score": 3389.1833333333334,
       "messages": 138,
-      "voiceSeconds": 202463
+      "voiceSeconds": 202523
     },
     {
       "userId": "718951317124546641",
       "displayName": "Po$$",
       "avatarUrl": "https://cdn.discordapp.com/avatars/718951317124546641/e9823863db64476e9e7d3118493da772.png?size=128",
-      "score": 3116.7166666666667,
+      "score": 3117.7166666666667,
       "messages": 103,
-      "voiceSeconds": 186385
+      "voiceSeconds": 186445
     },
     {
       "userId": "462717523549224972",
       "displayName": "Zagros",
       "avatarUrl": "https://cdn.discordapp.com/avatars/462717523549224972/fcef59f9e81ba474384a9ccd5135be44.png?size=128",
-      "score": 2663.7166666666667,
+      "score": 2664.7166666666667,
       "messages": 110,
-      "voiceSeconds": 159163
+      "voiceSeconds": 159223
     },
     {
       "userId": "551765509226496016",
@@ -45,9 +45,9 @@
       "userId": "486532783431483402",
       "displayName": "dilemma",
       "avatarUrl": "https://cdn.discordapp.com/avatars/486532783431483402/076e622fdc5da712e32ca30669daeabd.png?size=128",
-      "score": 1833.3000000000002,
+      "score": 1834.3000000000002,
       "messages": 34,
-      "voiceSeconds": 109794
+      "voiceSeconds": 109854
     },
     {
       "userId": "1217876350703239288",
@@ -69,17 +69,17 @@
       "userId": "1432055525482299533",
       "displayName": "exam wanê",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1432055525482299533/797aeb405914121cb6293314b44f2d59.png?size=128",
-      "score": 1240.5333333333335,
+      "score": 1241.5333333333335,
       "messages": 104,
-      "voiceSeconds": 73808
+      "voiceSeconds": 73868
     },
     {
       "userId": "1423118137448071229",
       "displayName": "Serok Donald J.Trump",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1423118137448071229/96da1661b1c05120b6409eec32d3815b.png?size=128",
-      "score": 1190.8666666666666,
+      "score": 1191.8666666666666,
       "messages": 96,
-      "voiceSeconds": 70876
+      "voiceSeconds": 70936
     }
   ],
   "allTime": [
@@ -87,25 +87,25 @@
       "userId": "793416870703267840",
       "displayName": "Gulê",
       "avatarUrl": "https://cdn.discordapp.com/avatars/793416870703267840/15032e82c21576ed7b49ebb8b824340a.png?size=128",
-      "score": 3388.1833333333334,
+      "score": 3389.1833333333334,
       "messages": 138,
-      "voiceSeconds": 202463
+      "voiceSeconds": 202523
     },
     {
       "userId": "718951317124546641",
       "displayName": "Po$$",
       "avatarUrl": "https://cdn.discordapp.com/avatars/718951317124546641/e9823863db64476e9e7d3118493da772.png?size=128",
-      "score": 3116.7166666666667,
+      "score": 3117.7166666666667,
       "messages": 103,
-      "voiceSeconds": 186385
+      "voiceSeconds": 186445
     },
     {
       "userId": "462717523549224972",
       "displayName": "Zagros",
       "avatarUrl": "https://cdn.discordapp.com/avatars/462717523549224972/fcef59f9e81ba474384a9ccd5135be44.png?size=128",
-      "score": 2663.7166666666667,
+      "score": 2664.7166666666667,
       "messages": 110,
-      "voiceSeconds": 159163
+      "voiceSeconds": 159223
     },
     {
       "userId": "551765509226496016",
@@ -127,9 +127,9 @@
       "userId": "486532783431483402",
       "displayName": "dilemma",
       "avatarUrl": "https://cdn.discordapp.com/avatars/486532783431483402/076e622fdc5da712e32ca30669daeabd.png?size=128",
-      "score": 1833.3000000000002,
+      "score": 1834.3000000000002,
       "messages": 34,
-      "voiceSeconds": 109794
+      "voiceSeconds": 109854
     },
     {
       "userId": "1217876350703239288",
@@ -151,17 +151,17 @@
       "userId": "1432055525482299533",
       "displayName": "exam wanê",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1432055525482299533/797aeb405914121cb6293314b44f2d59.png?size=128",
-      "score": 1240.5333333333335,
+      "score": 1241.5333333333335,
       "messages": 104,
-      "voiceSeconds": 73808
+      "voiceSeconds": 73868
     },
     {
       "userId": "1423118137448071229",
       "displayName": "Serok Donald J.Trump",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1423118137448071229/96da1661b1c05120b6409eec32d3815b.png?size=128",
-      "score": 1190.8666666666666,
+      "score": 1191.8666666666666,
       "messages": 96,
-      "voiceSeconds": 70876
+      "voiceSeconds": 70936
     }
   ]
 }
