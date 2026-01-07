@@ -1,29 +1,29 @@
 {
-  "generatedAtUtc": "2026-01-07T20:13:24.000Z",
+  "generatedAtUtc": "2026-01-07T20:14:24.000Z",
   "sevenDays": [
     {
       "userId": "793416870703267840",
       "displayName": "Gulê",
       "avatarUrl": "https://cdn.discordapp.com/avatars/793416870703267840/15032e82c21576ed7b49ebb8b824340a.png?size=128",
-      "score": 3313.1833333333334,
+      "score": 3314.1833333333334,
       "messages": 138,
-      "voiceSeconds": 197963
+      "voiceSeconds": 198023
     },
     {
       "userId": "718951317124546641",
       "displayName": "Po$$",
       "avatarUrl": "https://cdn.discordapp.com/avatars/718951317124546641/e9823863db64476e9e7d3118493da772.png?size=128",
-      "score": 3042.883333333333,
-      "messages": 102,
-      "voiceSeconds": 181961
+      "score": 3043.9833333333336,
+      "messages": 103,
+      "voiceSeconds": 182021
     },
     {
       "userId": "462717523549224972",
       "displayName": "Zagros",
       "avatarUrl": "https://cdn.discordapp.com/avatars/462717523549224972/fcef59f9e81ba474384a9ccd5135be44.png?size=128",
-      "score": 2588.616666666667,
+      "score": 2589.616666666667,
       "messages": 109,
-      "voiceSeconds": 154663
+      "voiceSeconds": 154723
     },
     {
       "userId": "551765509226496016",
@@ -53,9 +53,9 @@
       "userId": "1217876350703239288",
       "displayName": "Panayotis Kurdopoulos",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1217876350703239288/a873e7e86bc5ee4ae23324f03e6d2742.png?size=128",
-      "score": 1718.2833333333333,
+      "score": 1719.2833333333333,
       "messages": 76,
-      "voiceSeconds": 102641
+      "voiceSeconds": 102701
     },
     {
       "userId": "1265999579690565732",
@@ -77,9 +77,9 @@
       "userId": "1432055525482299533",
       "displayName": "exam wanê",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1432055525482299533/797aeb405914121cb6293314b44f2d59.png?size=128",
-      "score": 1165.2333333333333,
+      "score": 1166.2333333333333,
       "messages": 101,
-      "voiceSeconds": 69308
+      "voiceSeconds": 69368
     }
   ],
   "allTime": [
@@ -87,25 +87,25 @@
       "userId": "793416870703267840",
       "displayName": "Gulê",
       "avatarUrl": "https://cdn.discordapp.com/avatars/793416870703267840/15032e82c21576ed7b49ebb8b824340a.png?size=128",
-      "score": 3313.1833333333334,
+      "score": 3314.1833333333334,
       "messages": 138,
-      "voiceSeconds": 197963
+      "voiceSeconds": 198023
     },
     {
       "userId": "718951317124546641",
       "displayName": "Po$$",
       "avatarUrl": "https://cdn.discordapp.com/avatars/718951317124546641/e9823863db64476e9e7d3118493da772.png?size=128",
-      "score": 3042.883333333333,
-      "messages": 102,
-      "voiceSeconds": 181961
+      "score": 3043.9833333333336,
+      "messages": 103,
+      "voiceSeconds": 182021
     },
     {
       "userId": "462717523549224972",
       "displayName": "Zagros",
       "avatarUrl": "https://cdn.discordapp.com/avatars/462717523549224972/fcef59f9e81ba474384a9ccd5135be44.png?size=128",
-      "score": 2588.616666666667,
+      "score": 2589.616666666667,
       "messages": 109,
-      "voiceSeconds": 154663
+      "voiceSeconds": 154723
     },
     {
       "userId": "551765509226496016",
@@ -135,9 +135,9 @@
       "userId": "1217876350703239288",
       "displayName": "Panayotis Kurdopoulos",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1217876350703239288/a873e7e86bc5ee4ae23324f03e6d2742.png?size=128",
-      "score": 1718.2833333333333,
+      "score": 1719.2833333333333,
       "messages": 76,
-      "voiceSeconds": 102641
+      "voiceSeconds": 102701
     },
     {
       "userId": "1265999579690565732",
@@ -159,9 +159,9 @@
       "userId": "1432055525482299533",
       "displayName": "exam wanê",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1432055525482299533/797aeb405914121cb6293314b44f2d59.png?size=128",
-      "score": 1165.2333333333333,
+      "score": 1166.2333333333333,
       "messages": 101,
-      "voiceSeconds": 69308
+      "voiceSeconds": 69368
     }
   ]
 }
