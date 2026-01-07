@@ -1,5 +1,5 @@
 {
-  "generatedAtUtc": "2026-01-07T21:47:25.000Z",
+  "generatedAtUtc": "2026-01-07T21:48:25.000Z",
   "sevenDays": [
     {
       "userId": "793416870703267840",
@@ -13,17 +13,17 @@
       "userId": "718951317124546641",
       "displayName": "Po$$",
       "avatarUrl": "https://cdn.discordapp.com/avatars/718951317124546641/e9823863db64476e9e7d3118493da772.png?size=128",
-      "score": 3135.4500000000003,
+      "score": 3136.4500000000003,
       "messages": 104,
-      "voiceSeconds": 187503
+      "voiceSeconds": 187563
     },
     {
       "userId": "462717523549224972",
       "displayName": "Zagros",
       "avatarUrl": "https://cdn.discordapp.com/avatars/462717523549224972/fcef59f9e81ba474384a9ccd5135be44.png?size=128",
-      "score": 2682.9166666666665,
+      "score": 2683.9166666666665,
       "messages": 112,
-      "voiceSeconds": 160303
+      "voiceSeconds": 160363
     },
     {
       "userId": "551765509226496016",
@@ -45,9 +45,9 @@
       "userId": "486532783431483402",
       "displayName": "dilemma",
       "avatarUrl": "https://cdn.discordapp.com/avatars/486532783431483402/076e622fdc5da712e32ca30669daeabd.png?size=128",
-      "score": 1852.3000000000002,
+      "score": 1853.3000000000002,
       "messages": 34,
-      "voiceSeconds": 110934
+      "voiceSeconds": 110994
     },
     {
       "userId": "1217876350703239288",
@@ -69,17 +69,17 @@
       "userId": "1432055525482299533",
       "displayName": "exam wanê",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1432055525482299533/797aeb405914121cb6293314b44f2d59.png?size=128",
-      "score": 1259.6333333333334,
+      "score": 1260.6333333333334,
       "messages": 105,
-      "voiceSeconds": 74948
+      "voiceSeconds": 75008
     },
     {
       "userId": "1423118137448071229",
       "displayName": "Serok Donald J.Trump",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1423118137448071229/96da1661b1c05120b6409eec32d3815b.png?size=128",
-      "score": 1209.9666666666667,
+      "score": 1210.9666666666667,
       "messages": 97,
-      "voiceSeconds": 72016
+      "voiceSeconds": 72076
     }
   ],
   "allTime": [
@@ -95,17 +95,17 @@
       "userId": "718951317124546641",
       "displayName": "Po$$",
       "avatarUrl": "https://cdn.discordapp.com/avatars/718951317124546641/e9823863db64476e9e7d3118493da772.png?size=128",
-      "score": 3135.4500000000003,
+      "score": 3136.4500000000003,
       "messages": 104,
-      "voiceSeconds": 187503
+      "voiceSeconds": 187563
     },
     {
       "userId": "462717523549224972",
       "displayName": "Zagros",
       "avatarUrl": "https://cdn.discordapp.com/avatars/462717523549224972/fcef59f9e81ba474384a9ccd5135be44.png?size=128",
-      "score": 2682.9166666666665,
+      "score": 2683.9166666666665,
       "messages": 112,
-      "voiceSeconds": 160303
+      "voiceSeconds": 160363
     },
     {
       "userId": "551765509226496016",
@@ -127,9 +127,9 @@
       "userId": "486532783431483402",
       "displayName": "dilemma",
       "avatarUrl": "https://cdn.discordapp.com/avatars/486532783431483402/076e622fdc5da712e32ca30669daeabd.png?size=128",
-      "score": 1852.3000000000002,
+      "score": 1853.3000000000002,
       "messages": 34,
-      "voiceSeconds": 110934
+      "voiceSeconds": 110994
     },
     {
       "userId": "1217876350703239288",
@@ -151,17 +151,17 @@
       "userId": "1432055525482299533",
       "displayName": "exam wanê",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1432055525482299533/797aeb405914121cb6293314b44f2d59.png?size=128",
-      "score": 1259.6333333333334,
+      "score": 1260.6333333333334,
       "messages": 105,
-      "voiceSeconds": 74948
+      "voiceSeconds": 75008
     },
     {
       "userId": "1423118137448071229",
       "displayName": "Serok Donald J.Trump",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1423118137448071229/96da1661b1c05120b6409eec32d3815b.png?size=128",
-      "score": 1209.9666666666667,
+      "score": 1210.9666666666667,
       "messages": 97,
-      "voiceSeconds": 72016
+      "voiceSeconds": 72076
     }
   ]
 }
