@@ -1,13 +1,13 @@
 {
-  "generatedAtUtc": "2026-01-07T13:45:19.000Z",
+  "generatedAtUtc": "2026-01-07T13:46:19.000Z",
   "sevenDays": [
     {
       "userId": "793416870703267840",
       "displayName": "Gulê",
       "avatarUrl": "https://cdn.discordapp.com/avatars/793416870703267840/15032e82c21576ed7b49ebb8b824340a.png?size=128",
-      "score": 3047.65,
+      "score": 3048.65,
       "messages": 124,
-      "voiceSeconds": 182115
+      "voiceSeconds": 182175
     },
     {
       "userId": "718951317124546641",
@@ -21,9 +21,9 @@
       "userId": "462717523549224972",
       "displayName": "Zagros",
       "avatarUrl": "https://cdn.discordapp.com/avatars/462717523549224972/fcef59f9e81ba474384a9ccd5135be44.png?size=128",
-      "score": 2200.233333333333,
-      "messages": 105,
-      "voiceSeconds": 131384
+      "score": 2201.333333333333,
+      "messages": 106,
+      "voiceSeconds": 131444
     },
     {
       "userId": "361503154837258240",
@@ -37,9 +37,9 @@
       "userId": "551765509226496016",
       "displayName": "RAVEN",
       "avatarUrl": "https://cdn.discordapp.com/avatars/551765509226496016/a792d14d9f7ab1ea8b9eefcb155fb2ca.png?size=128",
-      "score": 1680.5833333333333,
+      "score": 1681.5833333333333,
       "messages": 8,
-      "voiceSeconds": 100787
+      "voiceSeconds": 100847
     },
     {
       "userId": "1217876350703239288",
@@ -53,9 +53,9 @@
       "userId": "486532783431483402",
       "displayName": "dilemma",
       "avatarUrl": "https://cdn.discordapp.com/avatars/486532783431483402/076e622fdc5da712e32ca30669daeabd.png?size=128",
-      "score": 1588.8833333333332,
+      "score": 1589.8833333333332,
       "messages": 33,
-      "voiceSeconds": 95135
+      "voiceSeconds": 95195
     },
     {
       "userId": "1265999579690565732",
@@ -77,9 +77,9 @@
       "userId": "1151982656020557914",
       "displayName": "APO Leonardo B.",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1151982656020557914/1b0a7e04ecda4c2876cd472a9476245d.png?size=128",
-      "score": 1041.5833333333333,
+      "score": 1042.5833333333333,
       "messages": 1,
-      "voiceSeconds": 62489
+      "voiceSeconds": 62549
     }
   ],
   "allTime": [
@@ -87,9 +87,9 @@
       "userId": "793416870703267840",
       "displayName": "Gulê",
       "avatarUrl": "https://cdn.discordapp.com/avatars/793416870703267840/15032e82c21576ed7b49ebb8b824340a.png?size=128",
-      "score": 3047.65,
+      "score": 3048.65,
       "messages": 124,
-      "voiceSeconds": 182115
+      "voiceSeconds": 182175
     },
     {
       "userId": "718951317124546641",
@@ -103,9 +103,9 @@
       "userId": "462717523549224972",
       "displayName": "Zagros",
       "avatarUrl": "https://cdn.discordapp.com/avatars/462717523549224972/fcef59f9e81ba474384a9ccd5135be44.png?size=128",
-      "score": 2200.233333333333,
-      "messages": 105,
-      "voiceSeconds": 131384
+      "score": 2201.333333333333,
+      "messages": 106,
+      "voiceSeconds": 131444
     },
     {
       "userId": "361503154837258240",
@@ -119,9 +119,9 @@
       "userId": "551765509226496016",
       "displayName": "RAVEN",
       "avatarUrl": "https://cdn.discordapp.com/avatars/551765509226496016/a792d14d9f7ab1ea8b9eefcb155fb2ca.png?size=128",
-      "score": 1680.5833333333333,
+      "score": 1681.5833333333333,
       "messages": 8,
-      "voiceSeconds": 100787
+      "voiceSeconds": 100847
     },
     {
       "userId": "1217876350703239288",
@@ -135,9 +135,9 @@
       "userId": "486532783431483402",
       "displayName": "dilemma",
       "avatarUrl": "https://cdn.discordapp.com/avatars/486532783431483402/076e622fdc5da712e32ca30669daeabd.png?size=128",
-      "score": 1588.8833333333332,
+      "score": 1589.8833333333332,
       "messages": 33,
-      "voiceSeconds": 95135
+      "voiceSeconds": 95195
     },
     {
       "userId": "1265999579690565732",
@@ -159,9 +159,9 @@
       "userId": "1151982656020557914",
       "displayName": "APO Leonardo B.",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1151982656020557914/1b0a7e04ecda4c2876cd472a9476245d.png?size=128",
-      "score": 1041.5833333333333,
+      "score": 1042.5833333333333,
       "messages": 1,
-      "voiceSeconds": 62489
+      "voiceSeconds": 62549
     }
   ]
 }
