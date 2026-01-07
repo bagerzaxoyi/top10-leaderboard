@@ -1,13 +1,13 @@
 {
-  "generatedAtUtc": "2026-01-07T15:46:21.000Z",
+  "generatedAtUtc": "2026-01-07T15:47:21.000Z",
   "sevenDays": [
     {
       "userId": "793416870703267840",
       "displayName": "Gulê",
       "avatarUrl": "https://cdn.discordapp.com/avatars/793416870703267840/15032e82c21576ed7b49ebb8b824340a.png?size=128",
-      "score": 3137.7833333333333,
+      "score": 3138.7833333333333,
       "messages": 126,
-      "voiceSeconds": 187511
+      "voiceSeconds": 187571
     },
     {
       "userId": "718951317124546641",
@@ -21,9 +21,9 @@
       "userId": "462717523549224972",
       "displayName": "Zagros",
       "avatarUrl": "https://cdn.discordapp.com/avatars/462717523549224972/fcef59f9e81ba474384a9ccd5135be44.png?size=128",
-      "score": 2321.4166666666665,
+      "score": 2322.4166666666665,
       "messages": 107,
-      "voiceSeconds": 138643
+      "voiceSeconds": 138703
     },
     {
       "userId": "361503154837258240",
@@ -37,9 +37,9 @@
       "userId": "551765509226496016",
       "displayName": "RAVEN",
       "avatarUrl": "https://cdn.discordapp.com/avatars/551765509226496016/a792d14d9f7ab1ea8b9eefcb155fb2ca.png?size=128",
-      "score": 1801.5666666666666,
+      "score": 1802.5666666666666,
       "messages": 8,
-      "voiceSeconds": 108046
+      "voiceSeconds": 108106
     },
     {
       "userId": "1217876350703239288",
@@ -87,9 +87,9 @@
       "userId": "793416870703267840",
       "displayName": "Gulê",
       "avatarUrl": "https://cdn.discordapp.com/avatars/793416870703267840/15032e82c21576ed7b49ebb8b824340a.png?size=128",
-      "score": 3137.7833333333333,
+      "score": 3138.7833333333333,
       "messages": 126,
-      "voiceSeconds": 187511
+      "voiceSeconds": 187571
     },
     {
       "userId": "718951317124546641",
@@ -103,9 +103,9 @@
       "userId": "462717523549224972",
       "displayName": "Zagros",
       "avatarUrl": "https://cdn.discordapp.com/avatars/462717523549224972/fcef59f9e81ba474384a9ccd5135be44.png?size=128",
-      "score": 2321.4166666666665,
+      "score": 2322.4166666666665,
       "messages": 107,
-      "voiceSeconds": 138643
+      "voiceSeconds": 138703
     },
     {
       "userId": "361503154837258240",
@@ -119,9 +119,9 @@
       "userId": "551765509226496016",
       "displayName": "RAVEN",
       "avatarUrl": "https://cdn.discordapp.com/avatars/551765509226496016/a792d14d9f7ab1ea8b9eefcb155fb2ca.png?size=128",
-      "score": 1801.5666666666666,
+      "score": 1802.5666666666666,
       "messages": 8,
-      "voiceSeconds": 108046
+      "voiceSeconds": 108106
     },
     {
       "userId": "1217876350703239288",
