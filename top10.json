@@ -1,5 +1,5 @@
 {
-  "generatedAtUtc": "2026-01-07T18:45:23.000Z",
+  "generatedAtUtc": "2026-01-07T18:46:23.000Z",
   "sevenDays": [
     {
       "userId": "793416870703267840",
@@ -13,17 +13,17 @@
       "userId": "718951317124546641",
       "displayName": "Po$$",
       "avatarUrl": "https://cdn.discordapp.com/avatars/718951317124546641/e9823863db64476e9e7d3118493da772.png?size=128",
-      "score": 2954.0833333333335,
+      "score": 2955.0833333333335,
       "messages": 94,
-      "voiceSeconds": 176681
+      "voiceSeconds": 176741
     },
     {
       "userId": "462717523549224972",
       "displayName": "Zagros",
       "avatarUrl": "https://cdn.discordapp.com/avatars/462717523549224972/fcef59f9e81ba474384a9ccd5135be44.png?size=128",
-      "score": 2500.4166666666665,
+      "score": 2501.4166666666665,
       "messages": 107,
-      "voiceSeconds": 149383
+      "voiceSeconds": 149443
     },
     {
       "userId": "551765509226496016",
@@ -45,9 +45,9 @@
       "userId": "486532783431483402",
       "displayName": "dilemma",
       "avatarUrl": "https://cdn.discordapp.com/avatars/486532783431483402/076e622fdc5da712e32ca30669daeabd.png?size=128",
-      "score": 1734.1666666666667,
+      "score": 1735.1666666666667,
       "messages": 34,
-      "voiceSeconds": 103846
+      "voiceSeconds": 103906
     },
     {
       "userId": "1217876350703239288",
@@ -61,9 +61,9 @@
       "userId": "1265999579690565732",
       "displayName": "mirzade",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1265999579690565732/fb2805640845b141ab2b44b099a0c315.png?size=128",
-      "score": 1378.55,
+      "score": 1379.55,
       "messages": 183,
-      "voiceSeconds": 81615
+      "voiceSeconds": 81675
     },
     {
       "userId": "1432055525482299533",
@@ -77,9 +77,9 @@
       "userId": "675684250573602837",
       "displayName": "𝘉𝘦𝘬𝘪𝘳",
       "avatarUrl": "https://cdn.discordapp.com/avatars/675684250573602837/a0954e43ee572d0c047414d4728d1d1f.png?size=128",
-      "score": 1120.0666666666666,
+      "score": 1121.0666666666666,
       "messages": 11,
-      "voiceSeconds": 67138
+      "voiceSeconds": 67198
     }
   ],
   "allTime": [
@@ -95,17 +95,17 @@
       "userId": "718951317124546641",
       "displayName": "Po$$",
       "avatarUrl": "https://cdn.discordapp.com/avatars/718951317124546641/e9823863db64476e9e7d3118493da772.png?size=128",
-      "score": 2954.0833333333335,
+      "score": 2955.0833333333335,
       "messages": 94,
-      "voiceSeconds": 176681
+      "voiceSeconds": 176741
     },
     {
       "userId": "462717523549224972",
       "displayName": "Zagros",
       "avatarUrl": "https://cdn.discordapp.com/avatars/462717523549224972/fcef59f9e81ba474384a9ccd5135be44.png?size=128",
-      "score": 2500.4166666666665,
+      "score": 2501.4166666666665,
       "messages": 107,
-      "voiceSeconds": 149383
+      "voiceSeconds": 149443
     },
     {
       "userId": "551765509226496016",
@@ -127,9 +127,9 @@
       "userId": "486532783431483402",
       "displayName": "dilemma",
       "avatarUrl": "https://cdn.discordapp.com/avatars/486532783431483402/076e622fdc5da712e32ca30669daeabd.png?size=128",
-      "score": 1734.1666666666667,
+      "score": 1735.1666666666667,
       "messages": 34,
-      "voiceSeconds": 103846
+      "voiceSeconds": 103906
     },
     {
       "userId": "1217876350703239288",
@@ -143,9 +143,9 @@
       "userId": "1265999579690565732",
       "displayName": "mirzade",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1265999579690565732/fb2805640845b141ab2b44b099a0c315.png?size=128",
-      "score": 1378.55,
+      "score": 1379.55,
       "messages": 183,
-      "voiceSeconds": 81615
+      "voiceSeconds": 81675
     },
     {
       "userId": "1432055525482299533",
@@ -159,9 +159,9 @@
       "userId": "675684250573602837",
       "displayName": "𝘉𝘦𝘬𝘪𝘳",
       "avatarUrl": "https://cdn.discordapp.com/avatars/675684250573602837/a0954e43ee572d0c047414d4728d1d1f.png?size=128",
-      "score": 1120.0666666666666,
+      "score": 1121.0666666666666,
       "messages": 11,
-      "voiceSeconds": 67138
+      "voiceSeconds": 67198
     }
   ]
 }
