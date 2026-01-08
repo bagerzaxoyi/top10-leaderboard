@@ -1,5 +1,5 @@
 {
-  "generatedAtUtc": "2026-01-08T19:04:42.000Z",
+  "generatedAtUtc": "2026-01-08T19:05:42.000Z",
   "sevenDays": [
     {
       "userId": "793416870703267840",
@@ -21,17 +21,17 @@
       "userId": "462717523549224972",
       "displayName": "Zagros",
       "avatarUrl": "https://cdn.discordapp.com/avatars/462717523549224972/fcef59f9e81ba474384a9ccd5135be44.png?size=128",
-      "score": 3218.7999999999997,
+      "score": 3219.7999999999997,
       "messages": 212,
-      "voiceSeconds": 191856
+      "voiceSeconds": 191916
     },
     {
       "userId": "486532783431483402",
       "displayName": "dilemma",
       "avatarUrl": "https://cdn.discordapp.com/avatars/486532783431483402/076e622fdc5da712e32ca30669daeabd.png?size=128",
-      "score": 2120.2,
+      "score": 2121.2,
       "messages": 36,
-      "voiceSeconds": 126996
+      "voiceSeconds": 127056
     },
     {
       "userId": "361503154837258240",
@@ -45,17 +45,17 @@
       "userId": "551765509226496016",
       "displayName": "RAVEN",
       "avatarUrl": "https://cdn.discordapp.com/avatars/551765509226496016/a792d14d9f7ab1ea8b9eefcb155fb2ca.png?size=128",
-      "score": 2014.55,
+      "score": 2015.55,
       "messages": 35,
-      "voiceSeconds": 120663
+      "voiceSeconds": 120723
     },
     {
       "userId": "1217876350703239288",
       "displayName": "Panayotis Kurdopoulos",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1217876350703239288/a873e7e86bc5ee4ae23324f03e6d2742.png?size=128",
-      "score": 1819.0666666666666,
+      "score": 1820.0666666666666,
       "messages": 76,
-      "voiceSeconds": 108688
+      "voiceSeconds": 108748
     },
     {
       "userId": "1432055525482299533",
@@ -103,17 +103,17 @@
       "userId": "462717523549224972",
       "displayName": "Zagros",
       "avatarUrl": "https://cdn.discordapp.com/avatars/462717523549224972/fcef59f9e81ba474384a9ccd5135be44.png?size=128",
-      "score": 3218.7999999999997,
+      "score": 3219.7999999999997,
       "messages": 212,
-      "voiceSeconds": 191856
+      "voiceSeconds": 191916
     },
     {
       "userId": "486532783431483402",
       "displayName": "dilemma",
       "avatarUrl": "https://cdn.discordapp.com/avatars/486532783431483402/076e622fdc5da712e32ca30669daeabd.png?size=128",
-      "score": 2120.2,
+      "score": 2121.2,
       "messages": 36,
-      "voiceSeconds": 126996
+      "voiceSeconds": 127056
     },
     {
       "userId": "361503154837258240",
@@ -127,17 +127,17 @@
       "userId": "551765509226496016",
       "displayName": "RAVEN",
       "avatarUrl": "https://cdn.discordapp.com/avatars/551765509226496016/a792d14d9f7ab1ea8b9eefcb155fb2ca.png?size=128",
-      "score": 2014.55,
+      "score": 2015.55,
       "messages": 35,
-      "voiceSeconds": 120663
+      "voiceSeconds": 120723
     },
     {
       "userId": "1217876350703239288",
       "displayName": "Panayotis Kurdopoulos",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1217876350703239288/a873e7e86bc5ee4ae23324f03e6d2742.png?size=128",
-      "score": 1819.0666666666666,
+      "score": 1820.0666666666666,
       "messages": 76,
-      "voiceSeconds": 108688
+      "voiceSeconds": 108748
     },
     {
       "userId": "1432055525482299533",
