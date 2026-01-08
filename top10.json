@@ -1,5 +1,5 @@
 {
-  "generatedAtUtc": "2026-01-08T22:58:44.000Z",
+  "generatedAtUtc": "2026-01-08T22:59:44.000Z",
   "sevenDays": [
     {
       "userId": "793416870703267840",
@@ -13,17 +13,17 @@
       "userId": "718951317124546641",
       "displayName": "Po$$",
       "avatarUrl": "https://cdn.discordapp.com/avatars/718951317124546641/e9823863db64476e9e7d3118493da772.png?size=128",
-      "score": 3492.5333333333333,
+      "score": 3493.5333333333333,
       "messages": 142,
-      "voiceSeconds": 208700
+      "voiceSeconds": 208760
     },
     {
       "userId": "462717523549224972",
       "displayName": "Zagros",
       "avatarUrl": "https://cdn.discordapp.com/avatars/462717523549224972/fcef59f9e81ba474384a9ccd5135be44.png?size=128",
-      "score": 3453.4666666666667,
+      "score": 3454.4666666666667,
       "messages": 219,
-      "voiceSeconds": 205894
+      "voiceSeconds": 205954
     },
     {
       "userId": "486532783431483402",
@@ -37,9 +37,9 @@
       "userId": "361503154837258240",
       "displayName": "BageR Zaxoyî",
       "avatarUrl": "https://cdn.discordapp.com/avatars/361503154837258240/d828c8e0f42e8a0656e866ed1ddc1ecf.png?size=128",
-      "score": 2238.733333333333,
+      "score": 2239.733333333333,
       "messages": 61,
-      "voiceSeconds": 133958
+      "voiceSeconds": 134018
     },
     {
       "userId": "551765509226496016",
@@ -69,17 +69,17 @@
       "userId": "1432055525482299533",
       "displayName": "exam wanê",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1432055525482299533/797aeb405914121cb6293314b44f2d59.png?size=128",
-      "score": 1513.8166666666666,
+      "score": 1514.8166666666666,
       "messages": 135,
-      "voiceSeconds": 90019
+      "voiceSeconds": 90079
     },
     {
       "userId": "765521370078904321",
       "displayName": "MÎRAN",
       "avatarUrl": "https://cdn.discordapp.com/avatars/765521370078904321/0a5fc18e51fc411d21a4a6a39e9cf97a.png?size=128",
-      "score": 1506.0666666666666,
+      "score": 1507.0666666666666,
       "messages": 23,
-      "voiceSeconds": 90226
+      "voiceSeconds": 90286
     }
   ],
   "allTime": [
@@ -95,17 +95,17 @@
       "userId": "718951317124546641",
       "displayName": "Po$$",
       "avatarUrl": "https://cdn.discordapp.com/avatars/718951317124546641/e9823863db64476e9e7d3118493da772.png?size=128",
-      "score": 3492.5333333333333,
+      "score": 3493.5333333333333,
       "messages": 142,
-      "voiceSeconds": 208700
+      "voiceSeconds": 208760
     },
     {
       "userId": "462717523549224972",
       "displayName": "Zagros",
       "avatarUrl": "https://cdn.discordapp.com/avatars/462717523549224972/fcef59f9e81ba474384a9ccd5135be44.png?size=128",
-      "score": 3453.4666666666667,
+      "score": 3454.4666666666667,
       "messages": 219,
-      "voiceSeconds": 205894
+      "voiceSeconds": 205954
     },
     {
       "userId": "486532783431483402",
@@ -119,9 +119,9 @@
       "userId": "361503154837258240",
       "displayName": "BageR Zaxoyî",
       "avatarUrl": "https://cdn.discordapp.com/avatars/361503154837258240/d828c8e0f42e8a0656e866ed1ddc1ecf.png?size=128",
-      "score": 2238.733333333333,
+      "score": 2239.733333333333,
       "messages": 61,
-      "voiceSeconds": 133958
+      "voiceSeconds": 134018
     },
     {
       "userId": "551765509226496016",
@@ -151,17 +151,17 @@
       "userId": "1432055525482299533",
       "displayName": "exam wanê",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1432055525482299533/797aeb405914121cb6293314b44f2d59.png?size=128",
-      "score": 1513.8166666666666,
+      "score": 1514.8166666666666,
       "messages": 135,
-      "voiceSeconds": 90019
+      "voiceSeconds": 90079
     },
     {
       "userId": "765521370078904321",
       "displayName": "MÎRAN",
       "avatarUrl": "https://cdn.discordapp.com/avatars/765521370078904321/0a5fc18e51fc411d21a4a6a39e9cf97a.png?size=128",
-      "score": 1506.0666666666666,
+      "score": 1507.0666666666666,
       "messages": 23,
-      "voiceSeconds": 90226
+      "voiceSeconds": 90286
     }
   ]
 }
