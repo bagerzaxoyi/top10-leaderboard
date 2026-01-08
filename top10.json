@@ -1,29 +1,29 @@
 {
-  "generatedAtUtc": "2026-01-08T17:36:41.000Z",
+  "generatedAtUtc": "2026-01-08T17:37:41.000Z",
   "sevenDays": [
     {
       "userId": "793416870703267840",
       "displayName": "Gulê",
       "avatarUrl": "https://cdn.discordapp.com/avatars/793416870703267840/15032e82c21576ed7b49ebb8b824340a.png?size=128",
-      "score": 3502.133333333333,
+      "score": 3503.133333333333,
       "messages": 366,
-      "voiceSeconds": 207932
+      "voiceSeconds": 207992
     },
     {
       "userId": "718951317124546641",
       "displayName": "Po$$",
       "avatarUrl": "https://cdn.discordapp.com/avatars/718951317124546641/e9823863db64476e9e7d3118493da772.png?size=128",
-      "score": 3288.5,
+      "score": 3289.5,
       "messages": 132,
-      "voiceSeconds": 196518
+      "voiceSeconds": 196578
     },
     {
       "userId": "462717523549224972",
       "displayName": "Zagros",
       "avatarUrl": "https://cdn.discordapp.com/avatars/462717523549224972/fcef59f9e81ba474384a9ccd5135be44.png?size=128",
-      "score": 3130.8166666666666,
+      "score": 3131.8166666666666,
       "messages": 212,
-      "voiceSeconds": 186577
+      "voiceSeconds": 186637
     },
     {
       "userId": "361503154837258240",
@@ -87,25 +87,25 @@
       "userId": "793416870703267840",
       "displayName": "Gulê",
       "avatarUrl": "https://cdn.discordapp.com/avatars/793416870703267840/15032e82c21576ed7b49ebb8b824340a.png?size=128",
-      "score": 3502.133333333333,
+      "score": 3503.133333333333,
       "messages": 366,
-      "voiceSeconds": 207932
+      "voiceSeconds": 207992
     },
     {
       "userId": "718951317124546641",
       "displayName": "Po$$",
       "avatarUrl": "https://cdn.discordapp.com/avatars/718951317124546641/e9823863db64476e9e7d3118493da772.png?size=128",
-      "score": 3288.5,
+      "score": 3289.5,
       "messages": 132,
-      "voiceSeconds": 196518
+      "voiceSeconds": 196578
     },
     {
       "userId": "462717523549224972",
       "displayName": "Zagros",
       "avatarUrl": "https://cdn.discordapp.com/avatars/462717523549224972/fcef59f9e81ba474384a9ccd5135be44.png?size=128",
-      "score": 3130.8166666666666,
+      "score": 3131.8166666666666,
       "messages": 212,
-      "voiceSeconds": 186577
+      "voiceSeconds": 186637
     },
     {
       "userId": "361503154837258240",
