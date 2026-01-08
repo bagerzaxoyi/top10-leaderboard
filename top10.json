@@ -1,21 +1,21 @@
 {
-  "generatedAtUtc": "2026-01-08T09:19:34.000Z",
+  "generatedAtUtc": "2026-01-08T09:20:34.000Z",
   "sevenDays": [
     {
       "userId": "793416870703267840",
       "displayName": "Gulê",
       "avatarUrl": "https://cdn.discordapp.com/avatars/793416870703267840/15032e82c21576ed7b49ebb8b824340a.png?size=128",
-      "score": 3448.0666666666666,
+      "score": 3449.0666666666666,
       "messages": 289,
-      "voiceSeconds": 205150
+      "voiceSeconds": 205210
     },
     {
       "userId": "718951317124546641",
       "displayName": "Po$$",
       "avatarUrl": "https://cdn.discordapp.com/avatars/718951317124546641/e9823863db64476e9e7d3118493da772.png?size=128",
-      "score": 3194.433333333333,
+      "score": 3195.433333333333,
       "messages": 127,
-      "voiceSeconds": 190904
+      "voiceSeconds": 190964
     },
     {
       "userId": "462717523549224972",
@@ -69,9 +69,9 @@
       "userId": "1265999579690565732",
       "displayName": "mirzade",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1265999579690565732/9d947f6e5ca6f7a84b817b3b4efe4c94.png?size=128",
-      "score": 1475.7,
+      "score": 1476.7,
       "messages": 244,
-      "voiceSeconds": 87078
+      "voiceSeconds": 87138
     },
     {
       "userId": "1431333749450346657",
@@ -87,17 +87,17 @@
       "userId": "793416870703267840",
       "displayName": "Gulê",
       "avatarUrl": "https://cdn.discordapp.com/avatars/793416870703267840/15032e82c21576ed7b49ebb8b824340a.png?size=128",
-      "score": 3448.0666666666666,
+      "score": 3449.0666666666666,
       "messages": 289,
-      "voiceSeconds": 205150
+      "voiceSeconds": 205210
     },
     {
       "userId": "718951317124546641",
       "displayName": "Po$$",
       "avatarUrl": "https://cdn.discordapp.com/avatars/718951317124546641/e9823863db64476e9e7d3118493da772.png?size=128",
-      "score": 3194.433333333333,
+      "score": 3195.433333333333,
       "messages": 127,
-      "voiceSeconds": 190904
+      "voiceSeconds": 190964
     },
     {
       "userId": "462717523549224972",
@@ -151,9 +151,9 @@
       "userId": "1265999579690565732",
       "displayName": "mirzade",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1265999579690565732/9d947f6e5ca6f7a84b817b3b4efe4c94.png?size=128",
-      "score": 1475.7,
+      "score": 1476.7,
       "messages": 244,
-      "voiceSeconds": 87078
+      "voiceSeconds": 87138
     },
     {
       "userId": "1431333749450346657",
