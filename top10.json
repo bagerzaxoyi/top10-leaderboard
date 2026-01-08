@@ -1,5 +1,5 @@
 {
-  "generatedAtUtc": "2026-01-08T20:39:43.000Z",
+  "generatedAtUtc": "2026-01-08T20:40:43.000Z",
   "sevenDays": [
     {
       "userId": "793416870703267840",
@@ -13,25 +13,25 @@
       "userId": "718951317124546641",
       "displayName": "Po$$",
       "avatarUrl": "https://cdn.discordapp.com/avatars/718951317124546641/e9823863db64476e9e7d3118493da772.png?size=128",
-      "score": 3352.766666666667,
+      "score": 3353.766666666667,
       "messages": 134,
-      "voiceSeconds": 200362
+      "voiceSeconds": 200422
     },
     {
       "userId": "462717523549224972",
       "displayName": "Zagros",
       "avatarUrl": "https://cdn.discordapp.com/avatars/462717523549224972/fcef59f9e81ba474384a9ccd5135be44.png?size=128",
-      "score": 3313.7999999999997,
+      "score": 3314.7999999999997,
       "messages": 212,
-      "voiceSeconds": 197556
+      "voiceSeconds": 197616
     },
     {
       "userId": "486532783431483402",
       "displayName": "dilemma",
       "avatarUrl": "https://cdn.discordapp.com/avatars/486532783431483402/076e622fdc5da712e32ca30669daeabd.png?size=128",
-      "score": 2215.2,
+      "score": 2216.2,
       "messages": 36,
-      "voiceSeconds": 132696
+      "voiceSeconds": 132756
     },
     {
       "userId": "361503154837258240",
@@ -53,9 +53,9 @@
       "userId": "1217876350703239288",
       "displayName": "Panayotis Kurdopoulos",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1217876350703239288/a873e7e86bc5ee4ae23324f03e6d2742.png?size=128",
-      "score": 1914.0666666666666,
+      "score": 1915.0666666666666,
       "messages": 76,
-      "voiceSeconds": 114388
+      "voiceSeconds": 114448
     },
     {
       "userId": "1432055525482299533",
@@ -77,9 +77,9 @@
       "userId": "1431333749450346657",
       "displayName": "Badinism",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1431333749450346657/2b97619a4c33fbe7221a776457a544f7.png?size=128",
-      "score": 1390.1166666666666,
+      "score": 1391.1166666666666,
       "messages": 78,
-      "voiceSeconds": 82939
+      "voiceSeconds": 82999
     }
   ],
   "allTime": [
@@ -95,25 +95,25 @@
       "userId": "718951317124546641",
       "displayName": "Po$$",
       "avatarUrl": "https://cdn.discordapp.com/avatars/718951317124546641/e9823863db64476e9e7d3118493da772.png?size=128",
-      "score": 3352.766666666667,
+      "score": 3353.766666666667,
       "messages": 134,
-      "voiceSeconds": 200362
+      "voiceSeconds": 200422
     },
     {
       "userId": "462717523549224972",
       "displayName": "Zagros",
       "avatarUrl": "https://cdn.discordapp.com/avatars/462717523549224972/fcef59f9e81ba474384a9ccd5135be44.png?size=128",
-      "score": 3313.7999999999997,
+      "score": 3314.7999999999997,
       "messages": 212,
-      "voiceSeconds": 197556
+      "voiceSeconds": 197616
     },
     {
       "userId": "486532783431483402",
       "displayName": "dilemma",
       "avatarUrl": "https://cdn.discordapp.com/avatars/486532783431483402/076e622fdc5da712e32ca30669daeabd.png?size=128",
-      "score": 2215.2,
+      "score": 2216.2,
       "messages": 36,
-      "voiceSeconds": 132696
+      "voiceSeconds": 132756
     },
     {
       "userId": "361503154837258240",
@@ -135,9 +135,9 @@
       "userId": "1217876350703239288",
       "displayName": "Panayotis Kurdopoulos",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1217876350703239288/a873e7e86bc5ee4ae23324f03e6d2742.png?size=128",
-      "score": 1914.0666666666666,
+      "score": 1915.0666666666666,
       "messages": 76,
-      "voiceSeconds": 114388
+      "voiceSeconds": 114448
     },
     {
       "userId": "1432055525482299533",
@@ -159,9 +159,9 @@
       "userId": "1431333749450346657",
       "displayName": "Badinism",
       "avatarUrl": "https://cdn.discordapp.com/avatars/1431333749450346657/2b97619a4c33fbe7221a776457a544f7.png?size=128",
-      "score": 1390.1166666666666,
+      "score": 1391.1166666666666,
       "messages": 78,
-      "voiceSeconds": 82939
+      "voiceSeconds": 82999
     }
   ]
 }
