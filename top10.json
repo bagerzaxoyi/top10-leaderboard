@@ -1,5 +1,5 @@
 {
-  "generatedAtUtc": "2026-01-09T04:35:50.000Z",
+  "generatedAtUtc": "2026-01-09T04:36:50.000Z",
   "sevenDays": [
     {
       "userId": "462717523549224972",
@@ -10,20 +10,20 @@
       "voiceSeconds": 213888
     },
     {
+      "userId": "793416870703267840",
+      "displayName": "Gulê",
+      "avatarUrl": "https://cdn.discordapp.com/avatars/793416870703267840/15032e82c21576ed7b49ebb8b824340a.png?size=128",
+      "score": 3541.4666666666667,
+      "messages": 370,
+      "voiceSeconds": 210268
+    },
+    {
       "userId": "718951317124546641",
       "displayName": "Po$$",
       "avatarUrl": "https://cdn.discordapp.com/avatars/718951317124546641/e9823863db64476e9e7d3118493da772.png?size=128",
       "score": 3541.4500000000003,
       "messages": 149,
       "voiceSeconds": 211593
-    },
-    {
-      "userId": "793416870703267840",
-      "displayName": "Gulê",
-      "avatarUrl": "https://cdn.discordapp.com/avatars/793416870703267840/15032e82c21576ed7b49ebb8b824340a.png?size=128",
-      "score": 3540.4666666666667,
-      "messages": 370,
-      "voiceSeconds": 210208
     },
     {
       "userId": "361503154837258240",
@@ -92,20 +92,20 @@
       "voiceSeconds": 213888
     },
     {
+      "userId": "793416870703267840",
+      "displayName": "Gulê",
+      "avatarUrl": "https://cdn.discordapp.com/avatars/793416870703267840/15032e82c21576ed7b49ebb8b824340a.png?size=128",
+      "score": 3541.4666666666667,
+      "messages": 370,
+      "voiceSeconds": 210268
+    },
+    {
       "userId": "718951317124546641",
       "displayName": "Po$$",
       "avatarUrl": "https://cdn.discordapp.com/avatars/718951317124546641/e9823863db64476e9e7d3118493da772.png?size=128",
       "score": 3541.4500000000003,
       "messages": 149,
       "voiceSeconds": 211593
-    },
-    {
-      "userId": "793416870703267840",
-      "displayName": "Gulê",
-      "avatarUrl": "https://cdn.discordapp.com/avatars/793416870703267840/15032e82c21576ed7b49ebb8b824340a.png?size=128",
-      "score": 3540.4666666666667,
-      "messages": 370,
-      "voiceSeconds": 210208
     },
     {
       "userId": "361503154837258240",
