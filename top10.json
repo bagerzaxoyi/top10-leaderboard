@@ -1,12 +1,12 @@
 {
-  "generatedAtUtc": "2026-01-09T10:52:56.000Z",
+  "generatedAtUtc": "2026-01-09T10:53:56.000Z",
   "sevenDays": [
     {
       "userId": "793416870703267840",
       "displayName": "Gulê",
       "avatarUrl": "https://cdn.discordapp.com/avatars/793416870703267840/15032e82c21576ed7b49ebb8b824340a.png?size=128",
-      "score": 3589.45,
-      "messages": 377,
+      "score": 3589.95,
+      "messages": 382,
       "voiceSeconds": 213105
     },
     {
@@ -21,8 +21,8 @@
       "userId": "718951317124546641",
       "displayName": "Po$$",
       "avatarUrl": "https://cdn.discordapp.com/avatars/718951317124546641/e9823863db64476e9e7d3118493da772.png?size=128",
-      "score": 3541.8500000000004,
-      "messages": 153,
+      "score": 3542.25,
+      "messages": 157,
       "voiceSeconds": 211593
     },
     {
@@ -45,8 +45,8 @@
       "userId": "551765509226496016",
       "displayName": "RAVEN",
       "avatarUrl": "https://cdn.discordapp.com/avatars/551765509226496016/57952c524ac3e1c0fc553edfcb904752.png?size=128",
-      "score": 2235.55,
-      "messages": 39,
+      "score": 2235.85,
+      "messages": 42,
       "voiceSeconds": 133899
     },
     {
@@ -87,8 +87,8 @@
       "userId": "793416870703267840",
       "displayName": "Gulê",
       "avatarUrl": "https://cdn.discordapp.com/avatars/793416870703267840/15032e82c21576ed7b49ebb8b824340a.png?size=128",
-      "score": 3589.45,
-      "messages": 377,
+      "score": 3589.95,
+      "messages": 382,
       "voiceSeconds": 213105
     },
     {
@@ -103,8 +103,8 @@
       "userId": "718951317124546641",
       "displayName": "Po$$",
       "avatarUrl": "https://cdn.discordapp.com/avatars/718951317124546641/e9823863db64476e9e7d3118493da772.png?size=128",
-      "score": 3541.8500000000004,
-      "messages": 153,
+      "score": 3542.25,
+      "messages": 157,
       "voiceSeconds": 211593
     },
     {
@@ -127,8 +127,8 @@
       "userId": "551765509226496016",
       "displayName": "RAVEN",
       "avatarUrl": "https://cdn.discordapp.com/avatars/551765509226496016/57952c524ac3e1c0fc553edfcb904752.png?size=128",
-      "score": 2235.55,
-      "messages": 39,
+      "score": 2235.85,
+      "messages": 42,
       "voiceSeconds": 133899
     },
     {
