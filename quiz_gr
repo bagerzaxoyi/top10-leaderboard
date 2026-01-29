@@ -1,0 +1,606 @@
+{
+  "version": 1,
+  "updatedAtUtc": "2026-01-30T00:00:00Z",
+  "questions": [
+    {
+      "id": "kurd_q001",
+      "question": "Which language family does Kurdish primarily belong to?",
+      "choices": ["Semitic", "Indo-European", "Turkic", "Uralic"],
+      "correctIndex": 1
+    },
+    {
+      "id": "kurd_q002",
+      "question": "Kurdish languages are most commonly classified under which branch of Indo-European?",
+      "choices": ["Italic", "Iranian", "Germanic", "Slavic"],
+      "correctIndex": 1
+    },
+    {
+      "id": "kurd_q003",
+      "question": "Which of the following is a widely spoken Kurdish dialect group?",
+      "choices": ["Kurmanci", "Catalan", "Bengali", "Zulu"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q004",
+      "question": "Which of the following is another major Kurdish dialect group?",
+      "choices": ["Sorani", "Norwegian", "Thai", "Swahili"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q005",
+      "question": "The traditional Kurdish New Year celebration is called:",
+      "choices": ["Nowruz (Newroz)", "Diwali", "Hanukkah", "Vesak"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q006",
+      "question": "Newroz is typically celebrated around which date?",
+      "choices": ["December 25", "March 21", "July 4", "October 31"],
+      "correctIndex": 1
+    },
+    {
+      "id": "kurd_q007",
+      "question": "Which region is commonly associated with a large Kurdish population in Türkiye?",
+      "choices": ["Southeastern Anatolia", "Central Sahara", "Amazon Basin", "Scandinavia"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q008",
+      "question": "Which country is commonly associated with the Kurdistan Region as a federal entity?",
+      "choices": ["Iraq", "Japan", "Portugal", "New Zealand"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q009",
+      "question": "Which mountain range is strongly associated with the geography of much of Kurdistan?",
+      "choices": ["Zagros", "Alps", "Andes", "Rockies"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q010",
+      "question": "Which mountain range is also often linked to Kurdish-inhabited areas in Türkiye and beyond?",
+      "choices": ["Taurus", "Himalayas", "Urals", "Appalachians"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q011",
+      "question": "Which script is commonly used to write Sorani Kurdish today?",
+      "choices": ["Arabic-based script", "Cyrillic only", "Devanagari", "Hangul"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q012",
+      "question": "Which script is commonly used to write Kurmanci Kurdish in Türkiye and Syria today?",
+      "choices": ["Latin-based script", "Chinese characters", "Ethiopic", "Hebrew-only"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q013",
+      "question": "Which of these is a well-known Kurdish folk dance style often performed in lines or circles?",
+      "choices": ["Govand (Dîlan)", "Tango", "Flamenco", "Hula"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q014",
+      "question": "A traditional Kurdish scarf often worn as part of men’s attire is commonly referred to as:",
+      "choices": ["Jamadani", "Kimono", "Sombrero", "Beret"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q015",
+      "question": "In many Kurdish regions, a common traditional clothing set for men may include baggy trousers known as:",
+      "choices": ["Şal û şapik", "Kilt", "Toga", "Sari"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q016",
+      "question": "Which instrument is strongly associated with Kurdish music across many regions?",
+      "choices": ["Tembûr/Tanbur", "Bagpipes", "Didgeridoo", "Balalaika"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q017",
+      "question": "Which instrument is a common frame drum used in Kurdish music and celebrations?",
+      "choices": ["Daf", "Harpsichord", "Theremin", "Steelpan"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q018",
+      "question": "Which of these is a well-known Kurdish string instrument, often with a long neck?",
+      "choices": ["Saz/Baglama", "Ukulele", "Banjo", "Mandolin"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q019",
+      "question": "Which city is widely recognized as the capital of the Kurdistan Region of Iraq?",
+      "choices": ["Erbil (Hewlêr)", "Casablanca", "Helsinki", "Vienna"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q020",
+      "question": "Which of these cities is commonly associated with a large Kurdish population in Iraq?",
+      "choices": ["Sulaymaniyah (Silêmanî)", "Reykjavík", "Oslo", "Lisbon"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q021",
+      "question": "Which river is an important feature in parts of Kurdish-inhabited regions of Iraq and Türkiye?",
+      "choices": ["Tigris (Dicle)", "Thames", "Danube", "Nile"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q022",
+      "question": "Which river also runs through areas that include parts of Kurdish-inhabited regions?",
+      "choices": ["Euphrates (Firat)", "Volga", "Yangtze", "Mekong"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q023",
+      "question": "Which of these is a common Kurdish word for 'thank you' in Kurmanci?",
+      "choices": ["Spas", "Merci", "Grazie", "Arigato"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q024",
+      "question": "Which of these is a common Kurdish greeting meaning 'hello'?",
+      "choices": ["Slav", "Bonjour", "Ciao", "Namaste"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q025",
+      "question": "Which of the following is a traditional Kurdish dish often made with bulgur and herbs (varies by region)?",
+      "choices": ["Kutilk/Kibbeh-style dishes", "Sushi", "Paella", "Poutine"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q026",
+      "question": "Which of these is a common feature of many Kurdish oral traditions?",
+      "choices": ["Epic storytelling and folk songs", "Haiku-only poetry", "Opera librettos", "Silent pantomime only"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q027",
+      "question": "The Kurdish flag is commonly described as having which symbol in the center?",
+      "choices": ["A sun emblem", "A crescent moon", "A maple leaf", "A five-pointed star only"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q028",
+      "question": "Which color combination is commonly associated with Kurdish national colors?",
+      "choices": ["Red, White, Green (with a sun)", "Blue and Yellow only", "Black and Orange only", "Purple and Gold only"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q029",
+      "question": "Which of these is a well-known Kurdish poet often associated with classical Kurdish literature?",
+      "choices": ["Ehmedê Xanî", "William Shakespeare", "Rabindranath Tagore", "Pablo Neruda"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q030",
+      "question": "Ehmedê Xanî is widely associated with which famous Kurdish literary work?",
+      "choices": ["Mem û Zîn", "The Odyssey", "Don Quixote", "The Divine Comedy"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q031",
+      "question": "Which of these is commonly considered a traditional Kurdish hospitality norm?",
+      "choices": ["Offering tea and food to guests", "Avoiding all conversation with guests", "Never serving drinks", "Only greeting guests by letter"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q032",
+      "question": "Which of these is a common Kurdish word for 'mother' in many dialects?",
+      "choices": ["Dayik/Dê", "Maman", "Mutter", "Madre"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q033",
+      "question": "Which of these is a common Kurdish word for 'father' in many dialects?",
+      "choices": ["Bav", "Padre", "Vater", "Otousan"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q034",
+      "question": "In Kurdish culture, which form of group dance often involves holding hands or linking arms?",
+      "choices": ["Line/circle dances (Govand)", "Solo tap dance only", "Ballroom waltz only", "Breakdance battles only"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q035",
+      "question": "Which of the following best describes 'Kurdistan' as commonly used in a cultural-geographic sense?",
+      "choices": ["A region spanning parts of several Middle Eastern countries", "A small island in the Pacific", "A single city-state in Europe", "A mountain in South America"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q036",
+      "question": "Which of these is a commonly recognized Kurdish religious/ethno-religious community with historical roots in the region?",
+      "choices": ["Yazidis", "Shinto", "Jain", "Sikh"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q037",
+      "question": "The Yazidi holy site Lalish is located in which present-day country?",
+      "choices": ["Iraq", "Spain", "Canada", "Indonesia"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q038",
+      "question": "Which of these is a commonly used Kurdish term for 'Kurdish language' (varies by dialect)?",
+      "choices": ["Kurdî / Kurdîziman", "Latina", "Anglî", "Français"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q039",
+      "question": "Which of these is a common Kurdish word meaning 'freedom'?",
+      "choices": ["Azadî", "Liberté", "Freiheit", "Libertad"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q040",
+      "question": "Which of these is a common Kurdish word meaning 'mountain' (varies by dialect)?",
+      "choices": ["Çiya/Çiyayê", "Mont", "Berg", "Sierra"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q041",
+      "question": "Which of these is a common Kurdish word meaning 'water' (varies by dialect)?",
+      "choices": ["Av/Aw", "Agua", "Wasser", "Eau"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q042",
+      "question": "Which of these cities is often associated with Kurdish cultural life in Iran?",
+      "choices": ["Sanandaj (Sine)", "Kyoto", "Milan", "Cape Town"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q043",
+      "question": "Which of these is a Kurdish dialect group commonly associated with parts of Iran and Iraq?",
+      "choices": ["Gorani/Hewrami", "Icelandic", "Tagalog", "Finnish"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q044",
+      "question": "Which of these is a well-known Kurdish musical mode or tradition emphasizing storytelling in song?",
+      "choices": ["Dengbêj tradition", "Baroque fugue", "Gregorian chant only", "K-pop idol training"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q045",
+      "question": "A 'dengbêj' is best described as:",
+      "choices": ["A traditional Kurdish storyteller-singer", "A type of drum", "A mountain peak", "A writing system"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q046",
+      "question": "Which of these is a common Kurdish word meaning 'heart' (often used in songs/poetry)?",
+      "choices": ["Dil", "Corazón", "Herz", "Cœur"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q047",
+      "question": "Which of these is a common Kurdish word meaning 'love'?",
+      "choices": ["Evîn", "Amor", "Liebe", "Amour"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q048",
+      "question": "Which of these is a common Kurdish word meaning 'sun' (often symbolic in Kurdish culture)?",
+      "choices": ["Roj", "Sol", "Sonne", "Soleil"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q049",
+      "question": "Which of these is a common Kurdish word meaning 'day'?",
+      "choices": ["Roj", "Día", "Tag", "Jour"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q050",
+      "question": "Which of these is a common Kurdish word meaning 'night'?",
+      "choices": ["Şev", "Noche", "Nacht", "Nuit"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q051",
+      "question": "Which of these is a common Kurdish word meaning 'fire' (important in Newroz symbolism)?",
+      "choices": ["Agir/Ateş (dialect/loan variants)", "Fuego", "Feuer", "Feu"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q052",
+      "question": "Which historical figure is often associated with the legend of Newroz in Kurdish tradition?",
+      "choices": ["Kawa the Blacksmith", "King Arthur", "Julius Caesar", "Napoleon"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q053",
+      "question": "In the Newroz legend, Kawa is traditionally described as:",
+      "choices": ["A blacksmith who led a revolt", "A sailor who crossed the Atlantic", "A desert explorer", "A mathematician who invented algebra"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q054",
+      "question": "Which of these is a common Kurdish word meaning 'friend'?",
+      "choices": ["Heval", "Amigo", "Freund", "Ami"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q055",
+      "question": "Which of these is a common Kurdish word meaning 'book'?",
+      "choices": ["Pirtûk", "Libro", "Buch", "Livre"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q056",
+      "question": "Which of these is a common Kurdish word meaning 'school'?",
+      "choices": ["Dibistan/Qutabxane (varies)", "Escuela", "Schule", "École"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q057",
+      "question": "Which of these is a Kurdish word meaning 'city' (commonly used in Kurmanci)?",
+      "choices": ["Bajar", "Ciudad", "Stadt", "Ville"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q058",
+      "question": "Which of these is a Kurdish word meaning 'village' (commonly used in Kurmanci)?",
+      "choices": ["Gund", "Pueblo", "Dorf", "Village"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q059",
+      "question": "Which of these is a common Kurdish word meaning 'bread'?",
+      "choices": ["Nan", "Pan", "Brot", "Pain"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q060",
+      "question": "Which of these is a common Kurdish word meaning 'house'?",
+      "choices": ["Mal", "Casa", "Haus", "Maison"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q061",
+      "question": "Which of these is a common Kurdish word meaning 'road'?",
+      "choices": ["Rê", "Camino", "Weg", "Route"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q062",
+      "question": "Which of these is a common Kurdish word meaning 'mountains' (plural concept, often poetic)?",
+      "choices": ["Çiyayên", "Montañas", "Berge", "Montagnes"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q063",
+      "question": "Which statement best reflects a common theme in many Kurdish folk songs?",
+      "choices": ["Love, nature, and longing", "Only space travel", "Only ocean piracy", "Only industrial accounting"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q064",
+      "question": "Which of these is often a hallmark of Kurdish traditional celebrations?",
+      "choices": ["Collective dancing and music", "Silent ceremonies only", "No food permitted", "Only written poetry readings"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q065",
+      "question": "Which of these is a common Kurdish word meaning 'flower'?",
+      "choices": ["Gul", "Flor", "Blume", "Fleur"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q066",
+      "question": "Which of these is a common Kurdish word meaning 'spring' (season)?",
+      "choices": ["Bihar", "Primavera", "Frühling", "Printemps"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q067",
+      "question": "Which of these is a common Kurdish word meaning 'winter'?",
+      "choices": ["Zivistan", "Invierno", "Winter", "Hiver"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q068",
+      "question": "Which of these is a common Kurdish word meaning 'summer'?",
+      "choices": ["Havîn", "Verano", "Sommer", "Été"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q069",
+      "question": "Which of these is a common Kurdish word meaning 'autumn/fall'?",
+      "choices": ["Payîz", "Otoño", "Herbst", "Automne"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q070",
+      "question": "Which of these is a common Kurdish word meaning 'music'?",
+      "choices": ["Muzîk", "Música", "Musik", "Musique"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q071",
+      "question": "Which of these is a common Kurdish word meaning 'song'?",
+      "choices": ["Stran", "Canción", "Lied", "Chanson"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q072",
+      "question": "Which of these is a common Kurdish word meaning 'voice'?",
+      "choices": ["Deng", "Voz", "Stimme", "Voix"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q073",
+      "question": "Which of these is a common Kurdish word meaning 'story'?",
+      "choices": ["Çîrok", "Historia", "Geschichte", "Histoire"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q074",
+      "question": "Which of these is a common Kurdish word meaning 'name'?",
+      "choices": ["Nav", "Nombre", "Name", "Nom"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q075",
+      "question": "Which of these is a common Kurdish word meaning 'work'?",
+      "choices": ["Kar", "Trabajo", "Arbeit", "Travail"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q076",
+      "question": "Which of these is a common Kurdish word meaning 'woman' (varies by dialect)?",
+      "choices": ["Jin", "Mujer", "Frau", "Femme"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q077",
+      "question": "Which of these is a common Kurdish word meaning 'man' (varies by dialect)?",
+      "choices": ["Mêr", "Hombre", "Mann", "Homme"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q078",
+      "question": "Which of these is a common Kurdish word meaning 'child'?",
+      "choices": ["Zarok", "Niño", "Kind", "Enfant"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q079",
+      "question": "Which of these is a common Kurdish word meaning 'good'?",
+      "choices": ["Baş", "Bueno", "Gut", "Bon"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q080",
+      "question": "Which of these is a common Kurdish word meaning 'beautiful'?",
+      "choices": ["Xweş", "Hermoso", "Schön", "Beau"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q081",
+      "question": "Which of these is a common Kurdish word meaning 'big'?",
+      "choices": ["Mezin", "Grande", "Groß", "Grand"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q082",
+      "question": "Which of these is a common Kurdish word meaning 'small'?",
+      "choices": ["Biçûk", "Pequeño", "Klein", "Petit"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q083",
+      "question": "Which of these is a common Kurdish word meaning 'yes' (commonly in Kurmanci)?",
+      "choices": ["Erê", "Sí", "Ja", "Oui"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q084",
+      "question": "Which of these is a common Kurdish word meaning 'no'?",
+      "choices": ["Na", "No", "Nein", "Non"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q085",
+      "question": "Which of the following best describes the 'dengbêj' tradition?",
+      "choices": ["Oral performance preserving history and memory", "A modern pop marketing term", "A type of written legal code", "A culinary technique only"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q086",
+      "question": "Which of these is a common Kurdish word meaning 'mountain pass/route' (often in geography contexts)?",
+      "choices": ["Derbend (commonly used in region)", "Lagoon", "Delta", "Archipelago"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q087",
+      "question": "Which of these areas is commonly described as part of 'Iranian Kurdistan' in a cultural sense?",
+      "choices": ["Kermanshah and Kurdistan provinces (general)", "Patagonia", "Greenland", "Tasmania"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q088",
+      "question": "Which of these is often associated with Kurdish textile or craft traditions in many regions?",
+      "choices": ["Carpets and woven patterns", "Origami cranes only", "Glass igloos", "Bamboo flutes only"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q089",
+      "question": "Which of these is a common Kurdish word meaning 'mountainous' or related to mountains (poetic usage varies)?",
+      "choices": ["Çiyayî (usage varies)", "Tropical", "Polar", "Coastal"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q090",
+      "question": "Which of these is a common Kurdish word meaning 'river'?",
+      "choices": ["Ava/Çem (varies)", "Río", "Fluss", "Rivière"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q091",
+      "question": "Which of these is a common Kurdish word meaning 'green'?",
+      "choices": ["Kesk", "Verde", "Grün", "Vert"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q092",
+      "question": "Which of these is a common Kurdish word meaning 'red'?",
+      "choices": ["Sor", "Rojo", "Rot", "Rouge"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q093",
+      "question": "Which of these is a common Kurdish word meaning 'white'?",
+      "choices": ["Spî", "Blanco", "Weiß", "Blanc"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q094",
+      "question": "Which of these is a common Kurdish word meaning 'black'?",
+      "choices": ["Reş", "Negro", "Schwarz", "Noir"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q095",
+      "question": "Which of these is a common Kurdish word meaning 'gold' (often used symbolically)?",
+      "choices": ["Zêr", "Oro", "Gold", "Or"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q096",
+      "question": "Which of these is a common Kurdish word meaning 'flag'?",
+      "choices": ["Alay", "Bandera", "Flagge", "Drapeau"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q097",
+      "question": "Which of these best describes why dialect and script can vary across Kurdish communities?",
+      "choices": ["Different historical, regional, and political contexts", "Because Kurdish is a single dialect everywhere", "Because Kurdish has no writing systems", "Because scripts never change over time"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q098",
+      "question": "Which of these is commonly used to describe Kurdish as a set of related varieties rather than one single uniform form?",
+      "choices": ["A dialect continuum", "A dead language", "A constructed language only", "A purely tonal language"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q099",
+      "question": "Which of these is a common Kurdish word meaning 'homeland' or 'native land' (usage varies by dialect and context)?",
+      "choices": ["Welat", "Patria", "Heimat", "Patrie"],
+      "correctIndex": 0
+    },
+    {
+      "id": "kurd_q100",
+      "question": "Which of these is a sensible way to keep a quiz fresh when the same player re-enters the room?",
+      "choices": ["Randomize question order and shuffle answer choices", "Always show the same questions in the same order", "Remove all feedback and scoring", "Disable the content provider"],
+      "correctIndex": 0
+    }
+  ]
+}
